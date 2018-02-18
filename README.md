@@ -1,7 +1,7 @@
 Weekly Events
 ===
 
-This repository contains slides / outline documents of OSU Chinese Hackers' weekly events. Starting from Spring 2018, weekly events are held with ACM Club.
+This repository contains slides / outline documents of OSU ACM Club.
 
 Contribution
 ---
