@@ -1,5 +1,3 @@
-package acmclub;
-
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
@@ -7,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-//https://github.com/OSUACM/Weekly_Events/blob/master/180217.md
+// https://github.com/OSUACM/Weekly_Events/blob/master/180217.md
 public class CanUEscape {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner sc = new Scanner(new FileReader("src/acmclub/escapeInput.txt"));
@@ -52,9 +50,9 @@ public class CanUEscape {
 			} else {
 				// Note that, at this point, bounds do not need to be checked as we already have
 				// ensured that this point isn't on the edge
-				
-				//for each direction, add a position to the list of positions to check only if 
-				//it is a valid spot in the maze and we have not already added it to the list.
+
+				// for each direction, add a position to the list of positions to check only if
+				// it is a valid spot in the maze and we have not already added it to the list.
 				if (maze[next.row][next.col - 1] == '.' && !seen[next.row][next.col - 1]) {
 					Position left = new Position(next.row, next.col - 1);
 					seen[next.row][next.col-1] = true;
