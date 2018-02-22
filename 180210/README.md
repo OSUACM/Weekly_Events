@@ -4,9 +4,9 @@ ACM Club Meeting - Feb 10, 2018
 Lectures
 ---
 
-[ACM and Computer Science](180210-ACM-and-Computer-Science.md) (Wally Yang) [Script](180210-ACM-and-Computer-Science.txt)
+[ACM and Computer Science](ACM-and-Computer-Science.md) (Wally Yang) [Script](ACM-and-Computer-Science.txt)
 
-[Inverse Factorial](180210-Inverse-Factorial.pptx) (Alex Li) [Sample solution](180210-Inverse-Factorial.java)
+[Inverse Factorial](Inverse-Factorial.pptx) (Alex Li) [Sample solution](Inverse-Factorial.java)
 
 Weekly Challenge LIVE - Inverse Fibonacci
 ---
@@ -33,7 +33,7 @@ Test input:
 
 [Play!](https://docs.google.com/forms/d/e/1FAIpQLScCL5WNJ2LYIH_GNkVTtIF0ZNEY0Y03Fx9mrZ-UDEzEYrPldw/viewform)
 
-[Sample solution](180210-Inverse-Fibonacci.c)
+[Sample solution](Inverse-Fibonacci.c)
 
 Weekly Challenge - Eight Queens
 ---

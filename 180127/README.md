@@ -4,9 +4,9 @@ ACM Club Meeting - Jan 27, 2018
 Overview
 ---
 
-[Overview of Events](180127-Overview-of-Events.md)
+[Overview of Events](Overview-of-Events.md)
 
-[Weekly Meeting Plan](180127-Weekly-Meeting-Plan.md)
+[Weekly Meeting Plan](Weekly-Meeting-Plan.md)
 
 ### TODO
 

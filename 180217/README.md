@@ -4,18 +4,18 @@ ACM Club Meeting - Feb 17, 2018
 Lectures
 ---
 
-[Mahou DB](180217-Mahou-DB.pdf) (Lok Huang)
+[Mahou DB](Mahou-DB.pdf) (Lok Huang)
 
-[Eight Queens](180217-Eight-Queens.pdf) (Laurence Liu)
+[Eight Queens](Eight-Queens.pdf) (Laurence Liu)
 
 #### Sample solution to 8 queens
 
-1. [sample solution 1](180217-Eight-Queens.c)
+1. [sample solution 1](Eight-Queens.c)
 1. [sample solution 2](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_laurence.cpp)
 1. [sample solution 3](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_wally.cpp)
 1. [sample solution 4](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_hcz.cpp)
 
-[Sample code of counting all possible solutions of N queens puzzle](180217-N-Queens-Sol-Count.cpp)
+[Sample code of counting all possible solutions of N queens puzzle](N-Queens-Sol-Count.cpp)
 
 Weekly Challenge LIVE - Eight Dairy Queens
 ---
@@ -30,7 +30,7 @@ How many possible ways do they have to place the 8 stores?
 
 [Play!](https://docs.google.com/forms/d/e/1FAIpQLScXB7hTaj_2Px1rxWnjpfX_CEzqyeStyz7yjRkAf1RmLOyksA/viewform)
 
-[Sample solution](180217-Eight-Dairy-Queens.c)
+[Sample solution](Eight-Dairy-Queens.c)
 
 Weekly Challenge - Can U Escape
 ---
