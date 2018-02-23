@@ -6,15 +6,20 @@ Lectures
 
 [Mahou DB](Mahou-DB.pdf) (Lok Huang)
 
-[Eight Queens](Eight-Queens.pdf) (Laurence Liu) [Sample solution](Eight-Queens.c)
+[Eight Queens](Eight-Queens.pdf) (Laurence Liu)
 
-### Sample solutions from ACM-ICPC training
+Weekly Challenge Solutions
+---
+
+[Sample solution](Eight-Queens.c)
+
+[Counting all possible solutions of the N Queens Puzzle](N-Queens-Solution-Count.cpp)
+
+### Solutions from ACM-ICPC Training
 
 * [Laurence](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_laurence.cpp)
 * [Wally](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_wally.cpp)
 * [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_hcz.cpp)
-
-[Sample code of counting all possible solutions of N queens puzzle](N-Queens-Sol-Count.cpp)
 
 Weekly Challenge LIVE - Eight Dairy Queens
 ---

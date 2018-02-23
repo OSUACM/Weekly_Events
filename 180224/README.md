@@ -6,7 +6,14 @@ Lectures
 
 [...](...) (...)
 
-[Can U Escape](...) () [Sample solution](Can-U-Escape.java) [Sample solution 2](Can-U-Escape-Short.java)
+[Can U Escape](...) ()
+
+Weekly Challenge Solutions
+---
+
+[Sample solution](Can-U-Escape.java)
+
+[Sample solution (short version)](Can-U-Escape-Short.java)
 
 Weekly Challenge LIVE - ???
 ---

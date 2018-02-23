@@ -6,9 +6,14 @@ Lectures
 
 [ACM and Computer Science](ACM-and-Computer-Science.md) (Wally Yang) [Script](ACM-and-Computer-Science.txt)
 
-[Inverse Factorial](Inverse-Factorial.pptx) (Alex Li) [Sample solution](Inverse-Factorial.java)
+[Inverse Factorial](Inverse-Factorial.pptx) (Alex Li)
 
-### Sample solutions from ACM-ICPC training
+Weekly Challenge Solutions
+---
+
+[Sample solution](Inverse-Factorial.java)
+
+### Solutions from ACM-ICPC Training
 
 * [Laurence](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq16/inversefactorial_laurence.cpp)
 * [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq16/inversefactorial_hcz.cpp)
