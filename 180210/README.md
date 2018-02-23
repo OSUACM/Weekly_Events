@@ -8,6 +8,11 @@ Lectures
 
 [Inverse Factorial](Inverse-Factorial.pptx) (Alex Li) [Sample solution](Inverse-Factorial.java)
 
+### Sample solutions from ACM-ICPC training
+
+* [Laurence](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq16/inversefactorial_laurence.cpp)
+* [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq16/inversefactorial_hcz.cpp)
+
 Weekly Challenge LIVE - Inverse Fibonacci
 ---
 

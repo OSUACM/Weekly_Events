@@ -6,14 +6,13 @@ Lectures
 
 [Mahou DB](Mahou-DB.pdf) (Lok Huang)
 
-[Eight Queens](Eight-Queens.pdf) (Laurence Liu)
+[Eight Queens](Eight-Queens.pdf) (Laurence Liu) [Sample solution](Eight-Queens.c)
 
-#### Sample solution to 8 queens
+### Sample solutions from ACM-ICPC training
 
-1. [sample solution 1](Eight-Queens.c)
-1. [sample solution 2](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_laurence.cpp)
-1. [sample solution 3](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_wally.cpp)
-1. [sample solution 4](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_hcz.cpp)
+* [Laurence](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_laurence.cpp)
+* [Wally](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_wally.cpp)
+* [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/8queens_hcz.cpp)
 
 [Sample code of counting all possible solutions of N queens puzzle](N-Queens-Sol-Count.cpp)
 
