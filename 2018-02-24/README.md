@@ -1,15 +1,15 @@
 ACM Club Meeting - Feb 24, 2018
 ===
 
-Lectures
+Lecture - ???
 ---
 
-[...](...) (...)
+[Slides](...)
 
-[Can U Escape](Can-U-Escape.pdf) (Alex Li)
-
-Weekly Challenge Solutions
+Weekly Challenge Review - Can U Escape
 ---
+
+[Slides](Can-U-Escape.pdf)
 
 [Sample solution](Can-U-Escape.java)
 

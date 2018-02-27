@@ -1,17 +1,19 @@
 ACM Club Meeting - Feb 17, 2018
 ===
 
-Lectures
+Lecture - Mahou DB
 ---
 
-* [Mahou DB](Mahou-DB.pdf) (Lok Huang)
-* [Eight Queens](Eight-Queens.pdf) (Laurence Liu)
-    * [Counting all possible solutions of the N Queens Puzzle](N-Queens-Solution-Count.cpp)
+[Slides](Mahou-DB.pdf)
 
-Weekly Challenge Solutions
+Weekly Challenge Review - Eight Queens
 ---
+
+[Slides](Eight-Queens.pdf)
 
 [Sample solution](Eight-Queens.c)
+
+[Counting all possible solutions of the N Queens Puzzle](N-Queens-Solution-Count.cpp)
 
 ### Solutions from ACM-ICPC Training
 

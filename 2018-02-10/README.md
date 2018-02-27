@@ -1,15 +1,17 @@
 ACM Club Meeting - Feb 10, 2018
 ===
 
-Lectures
+Lecture - ACM and Computer Science
 ---
 
-[ACM and Computer Science](ACM-and-Computer-Science.md) (Wally Yang) [Script](ACM-and-Computer-Science.txt)
+[Outline](ACM-and-Computer-Science.md)
 
-[Inverse Factorial](Inverse-Factorial.pptx) (Alex Li)
+[Script](ACM-and-Computer-Science.txt)
 
-Weekly Challenge Solutions
+Weekly Challenge Review - Inverse Factorial
 ---
+
+[Slides](Inverse-Factorial.pptx)
 
 [Sample solution](Inverse-Factorial.java)
 
