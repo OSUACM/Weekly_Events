@@ -31,6 +31,7 @@ Table of Contents
 * [180224](180224)
     * [Can-U-Escape-Short.java](180224/Can-U-Escape-Short.java)
     * [Can-U-Escape.java](180224/Can-U-Escape.java)
+    * [Challenge-Problem-2-Can-'U'-Escape.pdf](180224/Challenge-Problem-2-Can-'U'-Escape.pdf)
     * [README.md](180224/README.md)
 
 Contribution
@@ -38,4 +39,4 @@ Contribution
 
 If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
 
-PDF and markdown are suggested formats.    
+PDF and markdown are suggested formats.
