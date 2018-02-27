@@ -11,12 +11,11 @@ def print_path(path, indent):
 
 def print_dir(path, indent):
     for sub_path in sorted(path.iterdir()):
-        if not sub_path.match('README.md'):
-            if sub_path.is_dir():
-                print_path(sub_path, indent)
-                print_dir(sub_path, indent + 1)
-            elif sub_path.is_file():
-                print_path(sub_path, indent)
+        if sub_path.is_dir():
+            print_path(sub_path, indent)
+            print_dir(sub_path, indent + 1)
+        elif sub_path.is_file() and not sub_path.match('README.md'):
+            print_path(sub_path, indent)
 
 if __name__ == '__main__':
     print(dedent('''\
