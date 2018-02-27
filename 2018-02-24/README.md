@@ -6,7 +6,7 @@ Lectures
 
 [...](...) (...)
 
-[Can U Escape](...) ()
+[Can U Escape](Can-U-Escape.pdf) (Alex Li)
 
 Weekly Challenge Solutions
 ---
