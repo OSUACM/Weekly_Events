@@ -8,7 +8,7 @@ DIR_BIT = 1
 FILE_BIT = 2
 
 def print_path(p, ident):
-    print(" " * ident * IDENT_W, "- ", end="")
+    print(" " * ident * IDENT_W, "* ", sep="", end="")
     print("[%s](%s)" % (p.name, "/".join(p.parts)))
 
 def print_dir(d, ident = 0, flags=DIR_BIT|FILE_BIT):
@@ -23,16 +23,14 @@ def print_dir(d, ident = 0, flags=DIR_BIT|FILE_BIT):
 
 if __name__ == "__main__":
     print(
-"""
-Weekly Events
+"""Weekly Events
 ===
 
 This repository contains slides / outline documents of OSU ACM Club.
 
 Table of Contents
 ---
-"""
-)
+""")
 
     print_dir(Path("./"), flags=DIR_BIT)
 
@@ -43,6 +41,4 @@ Contribution
 
 If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
 
-PDF and markdown are suggested formats.
-"""
-    )
+PDF and markdown are suggested formats.""")
