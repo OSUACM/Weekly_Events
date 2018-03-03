@@ -4,8 +4,6 @@ ACM Club Meeting - Feb 24, 2018
 Lecture - Git Version Control System
 ---
 
-[Slides]()
-
 Weekly Challenge Review - Can U Escape
 ---
 
