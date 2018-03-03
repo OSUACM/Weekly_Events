@@ -58,3 +58,90 @@ impossible
 ```
 
 *Source: 2016 ICPC NAQ*
+
+Weekly Challenge LIVE - Can U Escape++
+---
+
+Given a maze, find the length of the shortest path from the letter `U` to the outside.
+
+Sample input:
+
+```
+......
+..**..
+.*U.*.
+..**..
+......
+```
+
+Sample output:
+
+```
+no
+```
+
+Sample input:
+
+```
+********
+*...*..*
+*.*....*
+*.***.**
+*.U.*...
+********
+```
+
+Sample output:
+
+```
+13
+```
+
+Weekly Challenge LIVE - Can U Escape#
+---
+
+Given a maze, find the shortest path from the letter `U` to the outside and draw it on the maze.
+
+Sample input:
+
+```
+********
+*...*..*
+*.*....*
+*.***.**
+*.U.*...
+********
+```
+
+Sample output:
+
+```
+********
+*UUU*..*
+*U*UUU.*
+*U***U**
+*UU.*UUU
+********
+```
+
+Sample input:
+
+```
+********
+*...*..*
+*.*.....
+*.***.**
+*.U.*...
+********
+```
+
+Sample output:
+
+```
+********
+*UUU*..*
+*U*UUUUU
+*U***.**
+*UU.*...
+********
+```
