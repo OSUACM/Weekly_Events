@@ -97,6 +97,8 @@ Sample output:
 13
 ```
 
+[Sample solution](Can-U-Escape-Plus-Plus.cpp)
+
 Weekly Challenge LIVE - Can U Escape#
 ---
 
@@ -145,3 +147,5 @@ Sample output:
 *UU.*...
 ********
 ```
+
+[Sample solution](Can-U-Escape-Sharp.cpp)
