@@ -66,7 +66,7 @@ def process_slides(path, used_files):
 
             used_files.append('SLIDES.pdf')
 
-            print_link(slides, 'Slides', 2)
+            print_link(slides, 'Slides', 1)
 
 def process_dir(path):
     if path.match('????-??-??'):
