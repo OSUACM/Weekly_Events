@@ -1,4 +1,4 @@
-ACM Club Meeting - March 3, 2018
+ACM Club Meeting - Mar 03, 2018
 ===
 
 Guest Speaker - Winnie Sampson from College of Engineering Administration
