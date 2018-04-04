@@ -1,4 +1,0 @@
-smith@outlook.com
-smith.123@osu.edu
-john.smith+123@gmail.com
-000.john.smith.123+567@buckeyemail.osu.edu

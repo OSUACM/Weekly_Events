@@ -57,6 +57,11 @@ Table of Contents
         * [Test input](2018-03-03/Road-Maintenance.in)
         * [Sample solution](2018-03-03/Road-Maintenance.cpp)
     * [Slides](2018-03-03/SLIDES.pdf)
+* [Mar 31, 2018](2018-03-31)
+    * Lecture - Regular Expression and Backus-Naur Form
+    * Weekly Challenge Review - Road Maintenance
+    * Weekly Challenge - Prefix Free Code
+    * [Slides](2018-03-31/SLIDES.pdf)
 
 Contribution
 ---
