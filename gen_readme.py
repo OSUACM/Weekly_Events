@@ -44,10 +44,10 @@ def process_readme(path, used_files, time_str):
 
                 print_item(last, 1)
                 section = last
-            elif re.match(r'^\[.*\]\((?!\w+://).*\)$', line):
+            elif re.fullmatch(r'\[.*\]\((?!\w+://).*\)', line):
                 assert section is not None
 
-                match = re.match(r'^\[(.+)\]\((.+)\)$', line)
+                match = re.fullmatch(r'\[(.+)\]\((.+)\)', line)
                 assert match is not None
 
                 process_file_item(
