@@ -62,6 +62,15 @@ Table of Contents
     * Weekly Challenge Review - Road Maintenance
     * Weekly Challenge - Prefix Free Code
     * [Slides](2018-03-31/SLIDES.pdf)
+* [Apr 07, 2018](2018-04-07)
+    * Lecture - Software Defined Radio
+    * Weekly Challenge Review - Prefix Free Code
+    * Weekly Challenge - Infinite Hanoi Theorem
+    * Weekly Challenge LIVE - Infinite Hanoi Theorem
+        * [Sample solution (a)](2018-04-07/Infinite-Hanoi-Theorem-Float.c)
+        * [Sample solution (b)](2018-04-07/Infinite-Hanoi-Theorem-Naive.c)
+        * [Sample solution (c)](2018-04-07/Infinite-Hanoi-Theorem.c)
+    * [Slides](2018-04-07/SLIDES.pdf)
 
 Contribution
 ---
