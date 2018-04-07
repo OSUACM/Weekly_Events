@@ -51,6 +51,7 @@ Table of Contents
 * [Mar 03, 2018](2018-03-03)
     * Guest Speaker - Winnie Sampson from College of Engineering Administration
     * Lecture - LISP Programming Language
+        * [Slides](2018-03-03/LISP-Programming-Language.pdf)
     * Weekly Challenge Review - Big Truck
     * Weekly Challenge - Road Maintenance
     * Weekly Challenge LIVE - Road Maintenance
@@ -59,6 +60,7 @@ Table of Contents
     * [Slides](2018-03-03/SLIDES.pdf)
 * [Mar 31, 2018](2018-03-31)
     * Lecture - Regular Expression and Backus-Naur Form
+        * [Slides](2018-03-31/Regular-Expression-and-Backus-Naur-Form.pdf)
     * Weekly Challenge Review - Road Maintenance
     * Weekly Challenge - Prefix Free Code
     * [Slides](2018-03-31/SLIDES.pdf)

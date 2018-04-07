@@ -7,6 +7,8 @@ Guest Speaker - Winnie Sampson from College of Engineering Administration
 Lecture - LISP Programming Language
 ---
 
+[Slides](LISP-Programming-Language.pdf)
+
 Weekly Challenge Review - Big Truck
 ---
 

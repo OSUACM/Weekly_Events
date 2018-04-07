@@ -4,6 +4,8 @@ ACM Club Meeting - Mar 31, 2018
 Lecture - Regular Expression and Backus-Naur Form
 ---
 
+[Slides](Regular-Expression-and-Backus-Naur-Form.pdf)
+
 Weekly Challenge Review - Road Maintenance
 ---
 
