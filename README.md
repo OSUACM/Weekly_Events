@@ -66,6 +66,7 @@ Table of Contents
     * [Slides](2018-03-31/SLIDES.pdf)
 * [Apr 07, 2018](2018-04-07)
     * Lecture - Software Defined Radio
+        * [Slides](2018-04-07/Software-Defined-Radio.pdf)
     * Weekly Challenge Review - Prefix Free Code
     * Weekly Challenge - Infinite Hanoi Theorem
     * Weekly Challenge LIVE - Infinite Hanoi Theorem

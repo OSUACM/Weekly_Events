@@ -4,6 +4,8 @@ ACM Club Meeting - Apr 07, 2018
 Lecture - Software Defined Radio
 ---
 
+[Slides](Software-Defined-Radio.pdf)
+
 Weekly Challenge Review - Prefix Free Code
 ---
 
