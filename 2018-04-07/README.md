@@ -9,6 +9,8 @@ Lecture - Software Defined Radio
 Weekly Challenge Review - Prefix Free Code
 ---
 
+[Slides](Prefix-Free-Code.pdf)
+
 Weekly Challenge - Infinite Hanoi Theorem
 ---
 

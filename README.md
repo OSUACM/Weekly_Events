@@ -68,6 +68,7 @@ Table of Contents
     * Lecture - Software Defined Radio
         * [Slides](2018-04-07/Software-Defined-Radio.pdf)
     * Weekly Challenge Review - Prefix Free Code
+        * [Slides](2018-04-07/Prefix-Free-Code.pdf)
     * Weekly Challenge - Infinite Hanoi Theorem
     * Weekly Challenge LIVE - Infinite Hanoi Theorem
         * [Sample solution (a)](2018-04-07/Infinite-Hanoi-Theorem-Float.c)
