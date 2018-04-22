@@ -75,6 +75,10 @@ Table of Contents
         * [Sample solution (b)](2018-04-07/Infinite-Hanoi-Theorem-Naive.c)
         * [Sample solution (c)](2018-04-07/Infinite-Hanoi-Theorem.c)
     * [Slides](2018-04-07/SLIDES.pdf)
+* [Apr 21, 2018](2018-04-21)
+    * Review of Sprint 2018 and ACM ICPC
+    * Weekly Challenge Review - Infinite Hanoi Theorem
+    * [Slides](2018-04-21/SLIDES.pdf)
 
 Contribution
 ---
