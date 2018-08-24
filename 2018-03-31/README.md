@@ -9,6 +9,8 @@ Lecture - Regular Expression and Backus-Naur Form
 Weekly Challenge Review - Road Maintenance
 ---
 
+[Slides](Road-Maintenance.pptx)
+
 Weekly Challenge - Prefix Free Code
 ---
 

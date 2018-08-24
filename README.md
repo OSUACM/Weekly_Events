@@ -62,6 +62,7 @@ Table of Contents
     * Lecture - Regular Expression and Backus-Naur Form
         * [Slides](2018-03-31/Regular-Expression-and-Backus-Naur-Form.pdf)
     * Weekly Challenge Review - Road Maintenance
+        * [Slides](2018-03-31/Road-Maintenance.pptx)
     * Weekly Challenge - Prefix Free Code
     * [Slides](2018-03-31/SLIDES.pdf)
 * [Apr 07, 2018](2018-04-07)
