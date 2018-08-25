@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(){
+int main() {
 	// These lines are not neccessary unless you are dealing inputs
 	// of about 10^5. They increase the speed of input signifigantly.
 	// you can also increase input speed a bit by using scanf and printf
@@ -15,4 +15,4 @@ int main(){
 	r2 = s + s - r1;
 	cout << r2;
 	return 0;
-} 
+}

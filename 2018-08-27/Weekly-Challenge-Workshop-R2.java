@@ -27,4 +27,3 @@ public class R2 {
         bw.newLine();
     }
 }
-

@@ -1,7 +1,7 @@
 ACM Club Meeting - Jan 27, 2018
 ===
 
-Overview of Sprint 2018
+Overview of Spring 2018
 ---
 
 [Overview of Events](Overview-of-Events.md)

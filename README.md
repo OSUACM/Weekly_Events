@@ -10,7 +10,7 @@ Table of Contents
     * Lecture - Line Drawing
         * [Slides](2017-11-22/Line-Drawing.pdf)
 * [Jan 27, 2018](2018-01-27)
-    * Overview of Sprint 2018
+    * Overview of Spring 2018
         * [Overview of Events](2018-01-27/Overview-of-Events.md)
         * [Weekly Meeting Plan](2018-01-27/Weekly-Meeting-Plan.md)
     * Weekly Challenge - Inverse Factorial
@@ -77,9 +77,18 @@ Table of Contents
         * [Sample solution (c)](2018-04-07/Infinite-Hanoi-Theorem.c)
     * [Slides](2018-04-07/SLIDES.pdf)
 * [Apr 21, 2018](2018-04-21)
-    * Review of Sprint 2018 and ACM ICPC
+    * Review of Spring 2018
     * Weekly Challenge Review - Infinite Hanoi Theorem
     * [Slides](2018-04-21/SLIDES.pdf)
+* [Aug 27, 2018](2018-08-27)
+    * Overview of Autumn 2018
+    * Weekly Challenge Workshop
+        * [Slides](2018-08-27/Weekly-Challenge-Workshop.pptx)
+        * [Sample solution (Count Less)](2018-08-27/Weekly-Challenge-Workshop-Count-Less.cpp)
+        * [Sample solution (R2, C++)](2018-08-27/Weekly-Challenge-Workshop-R2.cpp)
+        * [Sample solution (R2, Java)](2018-08-27/Weekly-Challenge-Workshop-R2.java)
+        * [Sample solution (R2, Python)](2018-08-27/Weekly-Challenge-Workshop-R2.py)
+    * Weekly Challenge - ?
 
 Contribution
 ---
