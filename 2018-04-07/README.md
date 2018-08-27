@@ -14,15 +14,15 @@ Weekly Challenge Review - Prefix Free Code
 Weekly Challenge - Infinite Hanoi Theorem
 ---
 
-A chimpanzee is playing The Tower of Hanoi with 2 disks. In each step, he always chooses a legal move randomly. Please calculate the probability he can win the game after N steps.
+A chimpanzee is playing The Tower of Hanoi with 2 disks. In each step, he always chooses a legal move randomly. Please calculate the probability he can win the game after `n` steps.
 
-Given N < 1000, let the answer be P:
+Given `n < 1000`, let the answer be `p`:
 
-Problem (a): Calculate the float-point number P
+Problem (a): Calculate the float-point number `p`
 
-Problem (b): Calculate the accurate value of `(P * 3N) % (109 + 7)`
+Problem (b): Calculate the accurate value of `(p * 3^n) % (10^9 + 7)`
 
-Problem (c): If N < 1018, can you still solve (b)?
+Problem (c): If `n < 10^18`, can you still solve (b)?
 
 Weekly Challenge LIVE - Infinite Hanoi Theorem
 ---

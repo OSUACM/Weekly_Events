@@ -88,7 +88,7 @@ Table of Contents
         * [Sample solution (R2, C++)](2018-08-27/Weekly-Challenge-Workshop-R2.cpp)
         * [Sample solution (R2, Java)](2018-08-27/Weekly-Challenge-Workshop-R2.java)
         * [Sample solution (R2, Python)](2018-08-27/Weekly-Challenge-Workshop-R2.py)
-    * Weekly Challenge - ?
+    * Weekly Challenge - Complementary Colors
 
 Contribution
 ---
