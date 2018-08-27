@@ -89,6 +89,7 @@ Table of Contents
         * [Sample solution (R2, Java)](2018-08-27/Weekly-Challenge-Workshop-R2.java)
         * [Sample solution (R2, Python)](2018-08-27/Weekly-Challenge-Workshop-R2.py)
     * Weekly Challenge - Complementary Colors
+    * [Slides](2018-08-27/SLIDES.pdf)
 
 Contribution
 ---
