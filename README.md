@@ -83,7 +83,7 @@ Table of Contents
 * [Aug 27, 2018](2018-08-27)
     * Overview of Autumn 2018
     * Weekly Challenge Workshop
-        * [Slides](2018-08-27/Weekly-Challenge-Workshop.pptx)
+        * [Slides](2018-08-27/Weekly-Challenge-Workshop.pdf)
         * [Sample solution (Count Less)](2018-08-27/Weekly-Challenge-Workshop-Count-Less.cpp)
         * [Sample solution (R2, C++)](2018-08-27/Weekly-Challenge-Workshop-R2.cpp)
         * [Sample solution (R2, Java)](2018-08-27/Weekly-Challenge-Workshop-R2.java)

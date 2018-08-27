@@ -7,7 +7,7 @@ Overview of Autumn 2018
 Weekly Challenge Workshop
 ---
 
-[Slides](Weekly-Challenge-Workshop.pptx)
+[Slides](Weekly-Challenge-Workshop.pdf)
 
 [Sample solution (Count Less)](Weekly-Challenge-Workshop-Count-Less.cpp)
 
