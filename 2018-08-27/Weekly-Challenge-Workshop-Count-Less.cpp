@@ -20,7 +20,7 @@ int main() {
 		}else{
 			count += lastSameInd;
 		}
-	}		
-	cout << count;
+	}
+	cout << count << endl;
 	return 0;
 }
