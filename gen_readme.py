@@ -94,7 +94,7 @@ if __name__ == '__main__':
         Weekly Events
         ===
 
-        This repository contains slides / outline documents of OSU ACM Club.
+        This repository contains slides / outline documents of ACM Club (ACM at Ohio State).
 
         Table of Contents
         ---
