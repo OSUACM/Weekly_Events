@@ -17,12 +17,11 @@ The total number of players, the initial `x`, and the lucky number of each playe
 Sample input:
 
 ```
-8 10
+7 10
 10
 6
 0
 8
-12
 42
 9
 3
@@ -33,5 +32,7 @@ Sample output:
 ```
 9
 ```
+
+[Test input](Lucky-Number.in)
 
 What if each player has a secondary lucky number and wants the final `x` to be close to either one (prefer the first lucky number in a tie)?

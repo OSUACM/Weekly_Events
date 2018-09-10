@@ -94,6 +94,8 @@ Table of Contents
     * Lecture - "Learn You All Programming Languages"
     * Weekly Challenge Review - Complementary Colors
     * Weekly Challenge - Lucky Number
+        * [Test input](2018-09-10/Lucky-Number.in)
+    * [Slides](2018-09-10/SLIDES.pdf)
 
 Contribution
 ---
