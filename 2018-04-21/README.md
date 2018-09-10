@@ -8,3 +8,9 @@ Review of Spring 2018
 
 Weekly Challenge Review - Infinite Hanoi Theorem
 ---
+
+[Sample solution (a)](Infinite-Hanoi-Theorem-Float.c)
+
+[Sample solution (b)](Infinite-Hanoi-Theorem-Naive.c)
+
+[Sample solution (c)](Infinite-Hanoi-Theorem.c)

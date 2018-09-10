@@ -30,9 +30,3 @@ Weekly Challenge LIVE - Infinite Hanoi Theorem
 It is the same as Weekly Challenge.
 
 [Play!](https://docs.google.com/forms/d/e/1FAIpQLSeJ1vUh5NO0mdcoStI5Ovu13CRdoU9mS1cAi_fv_O1DBB7aJQ/viewform)
-
-[Sample solution (a)](Infinite-Hanoi-Theorem-Float.c)
-
-[Sample solution (b)](Infinite-Hanoi-Theorem-Naive.c)
-
-[Sample solution (c)](Infinite-Hanoi-Theorem.c)

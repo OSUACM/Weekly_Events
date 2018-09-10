@@ -11,6 +11,8 @@ Weekly Challenge Review - Road Maintenance
 
 [Slides](Road-Maintenance.pptx)
 
+[Sample solution](Road-Maintenance.cpp)
+
 Weekly Challenge - Prefix Free Code
 ---
 

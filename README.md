@@ -56,13 +56,13 @@ Table of Contents
     * Weekly Challenge - Road Maintenance
     * Weekly Challenge LIVE - Road Maintenance
         * [Test input](2018-03-03/Road-Maintenance.in)
-        * [Sample solution](2018-03-03/Road-Maintenance.cpp)
     * [Slides](2018-03-03/SLIDES.pdf)
 * [Mar 31, 2018](2018-03-31)
     * Lecture - Regular Expression and Backus-Naur Form
         * [Slides](2018-03-31/Regular-Expression-and-Backus-Naur-Form.pdf)
     * Weekly Challenge Review - Road Maintenance
         * [Slides](2018-03-31/Road-Maintenance.pptx)
+        * [Sample solution](2018-03-31/Road-Maintenance.cpp)
     * Weekly Challenge - Prefix Free Code
     * [Slides](2018-03-31/SLIDES.pdf)
 * [Apr 07, 2018](2018-04-07)
@@ -72,13 +72,13 @@ Table of Contents
         * [Slides](2018-04-07/Prefix-Free-Code.pdf)
     * Weekly Challenge - Infinite Hanoi Theorem
     * Weekly Challenge LIVE - Infinite Hanoi Theorem
-        * [Sample solution (a)](2018-04-07/Infinite-Hanoi-Theorem-Float.c)
-        * [Sample solution (b)](2018-04-07/Infinite-Hanoi-Theorem-Naive.c)
-        * [Sample solution (c)](2018-04-07/Infinite-Hanoi-Theorem.c)
     * [Slides](2018-04-07/SLIDES.pdf)
 * [Apr 21, 2018](2018-04-21)
     * Review of Spring 2018
     * Weekly Challenge Review - Infinite Hanoi Theorem
+        * [Sample solution (a)](2018-04-21/Infinite-Hanoi-Theorem-Float.c)
+        * [Sample solution (b)](2018-04-21/Infinite-Hanoi-Theorem-Naive.c)
+        * [Sample solution (c)](2018-04-21/Infinite-Hanoi-Theorem.c)
     * [Slides](2018-04-21/SLIDES.pdf)
 * [Aug 27, 2018](2018-08-27)
     * Overview of Autumn 2018

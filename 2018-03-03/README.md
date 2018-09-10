@@ -54,5 +54,3 @@ It is the same as Weekly Challenge.
 [Test input](Road-Maintenance.in)
 
 [Play!](https://docs.google.com/forms/d/e/1FAIpQLSfy5l2adCrmsna-bArzsImyiVf5pod2y5RF3xuxkxNP-G3B7w/viewform)
-
-[Sample solution](Road-Maintenance.cpp)
