@@ -93,6 +93,10 @@ Table of Contents
 * [Sep 10, 2018](2018-09-10)
     * Lecture - "Learn You All Programming Languages"
     * Weekly Challenge Review - Complementary Colors
+        * [Slides](2018-09-10/Complementary-Colors.pdf)
+        * [Sample solution (a)](2018-09-10/Complementary-Colors-Tree.c)
+        * [Sample solution (b)](2018-09-10/Complementary-Colors-Buckets.c)
+        * [Sample solution (c)](2018-09-10/Complementary-Colors-Sorting.c)
     * Weekly Challenge - Lucky Number
         * [Test input](2018-09-10/Lucky-Number.in)
     * [Slides](2018-09-10/SLIDES.pdf)

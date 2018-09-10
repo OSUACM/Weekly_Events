@@ -7,6 +7,14 @@ Lecture - "Learn You All Programming Languages"
 Weekly Challenge Review - Complementary Colors
 ---
 
+[Slides](Complementary-Colors.pdf)
+
+[Sample solution (a)](Complementary-Colors-Tree.c)
+
+[Sample solution (b)](Complementary-Colors-Buckets.c)
+
+[Sample solution (c)](Complementary-Colors-Sorting.c)
+
 Weekly Challenge - Lucky Number
 ---
 
