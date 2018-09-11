@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-// https://github.com/OSUACM/Weekly_Events/blob/master/180217.md
+// https://github.com/OSUACM/Weekly_Events/blob/master/2018-02-17
 public class CanUEscape {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner sc = new Scanner(new FileReader("src/acmclub/escapeInput.txt"));

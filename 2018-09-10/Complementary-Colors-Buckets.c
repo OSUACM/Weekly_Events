@@ -8,7 +8,7 @@ int main() {
     int g[n];
     int b[n];
     for (int i = 0; i < n; ++i) {
-        scanf("%d %d %d", &r[i], &g[i], &b[i]);
+        scanf("%d%d%d", &r[i], &g[i], &b[i]);
     }
 
     static int buckets[256][256][256];

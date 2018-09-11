@@ -8,13 +8,14 @@ void main()
     short invalid = 0;
     int i;
     int queen_count = 0;
-    for (i = 0;i < 8;i++)
+
+    for (i = 0; i < 8; i++)
     {
         char line[8];
         int j;
         scanf("%s", &line);
-        
-        for (j = 0;j < 8; j++)
+
+        for (j = 0; j < 8; j++)
         {
             if (line[j] == '*')
             {
@@ -24,16 +25,15 @@ void main()
             }
         }
     }
-        
+
     if (queen_count != 8) invalid = 1;
-    
-    i = 0;
-    for(i = 0;i < 8 && !invalid;i++)
+
+    for(i = 0; i < 8 && !invalid; i++)
     {
         int j;
-        for (j = i+1;j < 8 && !invalid;j++) invalid = pos[i][0] == pos[j][0] || pos[i][1] == pos[j][1] || pos[i][0]-pos[j][0] == pos[i][1]-pos[j][1] || pos[i][0]+pos[i][1] == pos[j][0]+pos[j][1];
+        for (j = i + 1; j < 8 && !invalid; j++) invalid = pos[i][0] == pos[j][0] || pos[i][1] == pos[j][1] || pos[i][0]-pos[j][0] == pos[i][1]-pos[j][1] || pos[i][0]+pos[i][1] == pos[j][0]+pos[j][1];
     }
 
-    if (invalid) printf("invalid");
-    else printf("valid");
+    if (invalid) printf("invalid\n");
+    else printf("valid\n");
 }
