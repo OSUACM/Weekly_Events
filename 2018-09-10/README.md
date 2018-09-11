@@ -4,6 +4,8 @@ ACM Club Meeting - Sep 10, 2018
 Lecture - "Learn You All Programming Languages"
 ---
 
+[Slides](Learn-You-All-Programming-Languages.pdf)
+
 Weekly Challenge Review - Complementary Colors
 ---
 

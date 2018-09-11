@@ -92,6 +92,7 @@ Table of Contents
     * [Slides](2018-08-27/SLIDES.pdf)
 * [Sep 10, 2018](2018-09-10)
     * Lecture - "Learn You All Programming Languages"
+        * [Slides](2018-09-10/Learn-You-All-Programming-Languages.pdf)
     * Weekly Challenge Review - Complementary Colors
         * [Slides](2018-09-10/Complementary-Colors.pdf)
         * [Sample solution (a)](2018-09-10/Complementary-Colors-Tree.c)
