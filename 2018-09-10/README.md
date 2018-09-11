@@ -6,6 +6,8 @@ Lecture - "Learn You All Programming Languages"
 
 [Slides](Learn-You-All-Programming-Languages.pdf)
 
+[Script](Learn-You-All-Programming-Languages-Script.pdf)
+
 Weekly Challenge Review - Complementary Colors
 ---
 
