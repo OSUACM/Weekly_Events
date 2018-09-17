@@ -102,6 +102,12 @@ Table of Contents
     * Weekly Challenge - Lucky Number
         * [Test input](2018-09-10/Lucky-Number.in)
     * [Slides](2018-09-10/SLIDES.pdf)
+* [Sep 17, 2018](2018-09-17)
+    * Lecture - Lossless Data Compression
+        * [Slides](2018-09-17/Lossless-Data-Compression.pdf)
+    * Weekly Challenge Review - Lucky Number
+    * Weekly Challenge - Arbitrage
+    * [Slides](2018-09-17/SLIDES.pdf)
 
 Contribution
 ---

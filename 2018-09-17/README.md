@@ -4,6 +4,8 @@ ACM Club Meeting - Sep 17, 2018
 Lecture - Lossless Data Compression
 ---
 
+[Slides](Lossless-Data-Compression.pdf)
+
 Weekly Challenge Review - Lucky Number
 ---
 
