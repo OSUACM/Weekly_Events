@@ -9,6 +9,8 @@ Lecture - Lossless Data Compression
 Weekly Challenge Review - Lucky Number
 ---
 
+[Sample solution](Lucky-Number.c)
+
 Weekly Challenge - Arbitrage
 ---
 

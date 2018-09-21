@@ -106,6 +106,7 @@ Table of Contents
     * Lecture - Lossless Data Compression
         * [Slides](2018-09-17/Lossless-Data-Compression.pdf)
     * Weekly Challenge Review - Lucky Number
+        * [Sample solution](2018-09-17/Lucky-Number.c)
     * Weekly Challenge - Arbitrage
     * [Slides](2018-09-17/SLIDES.pdf)
 
