@@ -7,6 +7,10 @@ Lecture - Flow Type Checker
 Weekly Challenge Review - Arbitrage
 ---
 
+[Slides](Arbitrage.pptx)
+
+[Sample solution](Arbitrage.java)
+
 ### Solutions from ACM-ICPC Training
 
 * [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/ctu10/arbitrage_hcz.cpp)
