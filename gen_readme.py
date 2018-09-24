@@ -16,8 +16,8 @@ def print_link(path, title, indent):
 
 def process_file_item(path, used_files, name, title):
     with path / name as file_item:
-        assert file_item.exists()
-        assert file_item.is_file()
+        assert file_item.exists(), '%s does not exist' % str(file_item)
+        assert file_item.is_file(), '%s is not a file' % str(file_item)
 
         used_files.append(name)
 
@@ -25,36 +25,50 @@ def process_file_item(path, used_files, name, title):
 
 def process_readme(path, used_files, time_str):
     with path / 'README.md' as readme:
-        assert readme.exists()
-        assert readme.is_file()
+        assert readme.exists(), '%s does not exist' % str(readme)
+        assert readme.is_file(), '%s is not a file' % str(readme)
 
         used_files.append('README.md')
 
         lines = readme.open().read().splitlines()
-        assert len(lines) >= 2
-        assert lines[0].endswith(' - ' + time_str)
-        assert lines[1] == '==='
+        assert len(lines) >= 2, '%s is too short' % str(readme)
+
+        # title
+
+        assert lines[1] == '===', 'title not found %s: %s' % (str(readme), lines[1])
+
+        title_match = re.fullmatch(r'(.+) - ' + time_str, lines[0])
+        assert title_match is not None, 'title syntax error %s: %s' % (str(readme), lines[0])
 
         last = None
         section = None
 
         for line in lines:
             if line == '---':
-                assert last is not None
+                # new section
+
+                assert last is not None, 'section not found %s: %s' % (str(readme), line)
+
+                section_match = re.fullmatch(r'(.+) - (.+)', last)
+                assert section_match is not None, 'section syntax error %s: %s' % (str(readme), last)
 
                 print_item(last, 1)
-                section = last
+                section = section_match.group(2)
             elif re.fullmatch(r'\[.*\]\((?!\w+://).*\)', line):
-                assert section is not None
+                # new link
 
-                match = re.fullmatch(r'\[(.+)\]\((.+)\)', line)
-                assert match is not None
+                assert section is not None, 'link in unknown section %s: %s' % (str(readme), line)
+
+                link_match = re.fullmatch(r'\[(.+)\]\((.+)\)', line)
+                assert link_match is not None, 'link syntax error %s: %s' % (str(readme), line)
+
+                # assert link_match.group(2).startswith(section.replace(' ', '-')), 'link file name error %s: %s' % (str(readme), line)
 
                 process_file_item(
                     path,
                     used_files,
-                    match.group(2),
-                    match.group(1)
+                    link_match.group(2),
+                    link_match.group(1)
                 )
 
             last = line
@@ -62,7 +76,7 @@ def process_readme(path, used_files, time_str):
 def process_slides(path, used_files):
     with path / 'SLIDES.pdf' as slides:
         if slides.exists():
-            assert slides.is_file()
+            assert slides.is_file(), '%s is not a file' % str(slides)
 
             used_files.append('SLIDES.pdf')
 
@@ -70,7 +84,7 @@ def process_slides(path, used_files):
 
 def process_dir(path):
     if path.match('????-??-??'):
-        assert path.is_dir()
+        assert path.is_dir(), '%s is not a dir' % str(path)
 
         time = datetime.datetime.strptime(path.name, '%Y-%m-%d')
         time_str = time.strftime('%b %d, %Y')
@@ -83,7 +97,7 @@ def process_dir(path):
 
         assert sorted(used_files) == sorted([
             file_item.name for file_item in path.iterdir()
-        ])
+        ]), '%s contains unused file' % str(path)
 
 def process_all(root):
     for path in sorted(root.iterdir()):
