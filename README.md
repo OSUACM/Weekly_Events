@@ -109,6 +109,11 @@ Table of Contents
         * [Sample solution](2018-09-17/Lucky-Number.c)
     * Weekly Challenge - Arbitrage
     * [Slides](2018-09-17/SLIDES.pdf)
+* [Sep 24, 2018](2018-09-24)
+    * Lecture - Flow Type Checker
+    * Weekly Challenge Review - Arbitrage
+    * Weekly Challenge - Knights in Fen
+    * [Slides](2018-09-24/SLIDES.pdf)
 
 Contribution
 ---
