@@ -1,10 +1,10 @@
 ACM Club Meeting - Aug 27, 2018
 ===
 
-Overview of Autumn 2018
+Overview - Autumn 2018
 ---
 
-Weekly Challenge Workshop
+Lecture - Weekly Challenge Workshop
 ---
 
 [Slides](Weekly-Challenge-Workshop.pdf)

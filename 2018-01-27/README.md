@@ -1,12 +1,12 @@
 ACM Club Meeting - Jan 27, 2018
 ===
 
-Overview of Spring 2018
+Overview - Spring 2018
 ---
 
-[Overview of Events](Overview-of-Events.md)
+[Overview of Events](Spring-2018-Overview-of-Events.md)
 
-[Weekly Meeting Plan](Weekly-Meeting-Plan.md)
+[Weekly Meeting Plan](Spring-2018-Weekly-Meeting-Plan.md)
 
 ### TODO
 

@@ -10,9 +10,9 @@ Table of Contents
     * Lecture - Line Drawing
         * [Slides](2017-11-22/Line-Drawing.pdf)
 * [Jan 27, 2018](2018-01-27)
-    * Overview of Spring 2018
-        * [Overview of Events](2018-01-27/Overview-of-Events.md)
-        * [Weekly Meeting Plan](2018-01-27/Weekly-Meeting-Plan.md)
+    * Overview - Spring 2018
+        * [Overview of Events](2018-01-27/Spring-2018-Overview-of-Events.md)
+        * [Weekly Meeting Plan](2018-01-27/Spring-2018-Weekly-Meeting-Plan.md)
     * Weekly Challenge - Inverse Factorial
 * [Feb 10, 2018](2018-02-10)
     * Lecture - ACM and Computer Science
@@ -31,6 +31,7 @@ Table of Contents
     * Weekly Challenge Review - Eight Queens
         * [Slides](2018-02-17/Eight-Queens.pdf)
         * [Sample solution](2018-02-17/Eight-Queens.c)
+link file name error 2018-02-17/README.md: [Counting all possible solutions of the N Queens Puzzle](N-Queens-Solution-Count.cpp)
         * [Counting all possible solutions of the N Queens Puzzle](2018-02-17/N-Queens-Solution-Count.cpp)
     * Weekly Challenge LIVE - Eight Dairy Queens
         * [Sample solution](2018-02-17/Eight-Dairy-Queens.c)
@@ -44,8 +45,10 @@ Table of Contents
         * [Sample solution (short version)](2018-02-24/Can-U-Escape-Short.java)
     * Weekly Challenge - Big Truck
     * Weekly Challenge LIVE - Can U Escape++
+link file name error 2018-02-24/README.md: [Sample solution](Can-U-Escape-Plus-Plus.cpp)
         * [Sample solution](2018-02-24/Can-U-Escape-Plus-Plus.cpp)
     * Weekly Challenge LIVE - Can U Escape#
+link file name error 2018-02-24/README.md: [Sample solution](Can-U-Escape-Sharp.cpp)
         * [Sample solution](2018-02-24/Can-U-Escape-Sharp.cpp)
     * [Slides](2018-02-24/SLIDES.pdf)
 * [Mar 03, 2018](2018-03-03)
@@ -74,15 +77,15 @@ Table of Contents
     * Weekly Challenge LIVE - Infinite Hanoi Theorem
     * [Slides](2018-04-07/SLIDES.pdf)
 * [Apr 21, 2018](2018-04-21)
-    * Review of Spring 2018
+    * Review - Spring 2018
     * Weekly Challenge Review - Infinite Hanoi Theorem
         * [Sample solution (a)](2018-04-21/Infinite-Hanoi-Theorem-Float.c)
         * [Sample solution (b)](2018-04-21/Infinite-Hanoi-Theorem-Naive.c)
         * [Sample solution (c)](2018-04-21/Infinite-Hanoi-Theorem.c)
     * [Slides](2018-04-21/SLIDES.pdf)
 * [Aug 27, 2018](2018-08-27)
-    * Overview of Autumn 2018
-    * Weekly Challenge Workshop
+    * Overview - Autumn 2018
+    * Lecture - Weekly Challenge Workshop
         * [Slides](2018-08-27/Weekly-Challenge-Workshop.pdf)
         * [Sample solution (Count Less)](2018-08-27/Weekly-Challenge-Workshop-Count-Less.cpp)
         * [Sample solution (R2, C++)](2018-08-27/Weekly-Challenge-Workshop-R2.cpp)
@@ -92,7 +95,9 @@ Table of Contents
     * [Slides](2018-08-27/SLIDES.pdf)
 * [Sep 10, 2018](2018-09-10)
     * Lecture - "Learn You All Programming Languages"
+link file name error 2018-09-10/README.md: [Slides](Learn-You-All-Programming-Languages.pdf)
         * [Slides](2018-09-10/Learn-You-All-Programming-Languages.pdf)
+link file name error 2018-09-10/README.md: [Script](Learn-You-All-Programming-Languages-Script.pdf)
         * [Script](2018-09-10/Learn-You-All-Programming-Languages-Script.pdf)
     * Weekly Challenge Review - Complementary Colors
         * [Slides](2018-09-10/Complementary-Colors.pdf)
