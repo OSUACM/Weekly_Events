@@ -4,6 +4,8 @@ ACM Club Meeting - Sep 24, 2018
 Lecture - Flow Type Checker
 ---
 
+[Slides](Flow-Type-Checker.pdf)
+
 Weekly Challenge Review - Arbitrage
 ---
 

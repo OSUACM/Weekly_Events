@@ -111,6 +111,7 @@ Table of Contents
     * [Slides](2018-09-17/SLIDES.pdf)
 * [Sep 24, 2018](2018-09-24)
     * Lecture - Flow Type Checker
+        * [Slides](2018-09-24/Flow-Type-Checker.pdf)
     * Weekly Challenge Review - Arbitrage
         * [Slides](2018-09-24/Arbitrage.pptx)
         * [Sample solution](2018-09-24/Arbitrage.java)
