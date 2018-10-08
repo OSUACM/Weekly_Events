@@ -11,6 +11,11 @@ Weekly Challenge Review - Prefix Free Code
 
 [Slides](Prefix-Free-Code.pdf)
 
+### Solutions from ACM-ICPC Training
+
+* [Laurence](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naipc18/prefixfreecode_laurence.c)
+* [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naipc18/prefixfreecode_hcz.cpp)
+
 Weekly Challenge - Infinite Hanoi Theorem
 ---
 
