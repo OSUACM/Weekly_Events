@@ -4,6 +4,8 @@ ACM Club Meeting - Oct 08, 2018
 Lecture - Collision Detection
 ---
 
+[Slides](Collision-Detection.pdf)
+
 Weekly Challenge Review - Knights in Fen
 ---
 

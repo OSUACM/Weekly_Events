@@ -119,6 +119,7 @@ Table of Contents
     * [Slides](2018-09-24/SLIDES.pdf)
 * [Oct 08, 2018](2018-10-08)
     * Lecture - Collision Detection
+        * [Slides](2018-10-08/Collision-Detection.pdf)
     * Weekly Challenge Review - Knights in Fen
     * Weekly Challenge - OH-315
         * [Test input](2018-10-08/OH-315.in)
