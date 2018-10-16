@@ -2,6 +2,7 @@ Weekly Challenge:
 You are having a party, but your guests are socially awkward and require a certain number of empty sets to their left and to their right. You have unlimited tables. Find the minimum number of seats you need to satisfy them.
 
 Sample Input:
+
 3
 
 1 1
