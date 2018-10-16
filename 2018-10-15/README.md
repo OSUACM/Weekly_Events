@@ -3,21 +3,29 @@ You are having a party, but your guests are socially awkward and require a certa
 
 Sample Input:
 3
+
 1 1
+
 1 1
+
 1 1
 
 Output: 6
 
 4
+
 1 2
+
 2 1
+
 3 5
+
 5 3
 
 Output: 15
 
 1
+
 5 6
 
 Output: 7
