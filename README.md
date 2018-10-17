@@ -124,6 +124,12 @@ Table of Contents
     * Weekly Challenge - OH-315
         * [Test input](2018-10-08/OH-315.in)
     * [Slides](2018-10-08/SLIDES.pdf)
+* [Oct 15, 2018](2018-10-15)
+    * Lecture - Software Defined Radio
+    * Weekly Challenge Review - OH-315
+        * [Sample solution (C++)](2018-10-15/OH-315.cpp)
+        * [Sample solution (Java)](2018-10-15/OH-315.java)
+    * Weekly Challenge - Social Circles
 
 Contribution
 ---
