@@ -14,7 +14,7 @@ Weekly Challenge Review - OH-315
 Weekly Challenge - Social Circles
 ---
 
-You are having a party, but your guests are socially awkward and require a certain number of empty sets to their left and to their right. You have unlimited tables. Find the minimum number of seats you need to satisfy them.
+You are having a party, but your guests are socially awkward and require a certain number of empty seats to their left and to their right. You have unlimited tables. Find the minimum number of seats you need to satisfy them.
 
 [Problem specification](http://codeforces.com/problemset/problem/1060/D)
 
