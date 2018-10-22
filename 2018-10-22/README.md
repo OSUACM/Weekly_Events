@@ -14,7 +14,7 @@ Weekly Challenge - OSU Wireless
 
 Suppose OSU Wireless will not available if we are outside of a building. Given the campus map, if we want to visit all the buildings on campus, how many times at least will we lose Wi-Fi connection?
 
-Easy version: None of the buildings is surrounded by another building.
+Easy version: None of the buildings is surrounded by any other building(s).
 
 Hard version: No restriction.
 
