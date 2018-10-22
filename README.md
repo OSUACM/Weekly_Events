@@ -130,6 +130,13 @@ Table of Contents
         * [Sample solution (C++)](2018-10-15/OH-315.cpp)
         * [Sample solution (Java)](2018-10-15/OH-315.java)
     * Weekly Challenge - Social Circles
+* [Oct 22, 2018](2018-10-22)
+    * Lecture - Network Tunneling
+    * Weekly Challenge Review - Social Circles
+        * [Sample solution](2018-10-22/Social-Circles.java)
+    * Weekly Challenge - OSU Wireless
+        * [Test input](2018-10-22/OSU-Wireless.in)
+    * [Slides](2018-10-22/SLIDES.pdf)
 
 Contribution
 ---
