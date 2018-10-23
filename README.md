@@ -132,6 +132,7 @@ Table of Contents
     * Weekly Challenge - Social Circles
 * [Oct 22, 2018](2018-10-22)
     * Lecture - Network Tunneling
+        * [Slides](2018-10-22/Network-Tunneling.pdf)
     * Weekly Challenge Review - Social Circles
         * [Sample solution](2018-10-22/Social-Circles.java)
     * Weekly Challenge - OSU Wireless

@@ -4,6 +4,8 @@ ACM Club Meeting - Oct 22, 2018
 Lecture - Network Tunneling
 ---
 
+[Slides](Network-Tunneling.pdf)
+
 Weekly Challenge Review - Social Circles
 ---
 
