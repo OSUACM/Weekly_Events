@@ -138,6 +138,11 @@ Table of Contents
     * Weekly Challenge - OSU Wireless
         * [Test input](2018-10-22/OSU-Wireless.in)
     * [Slides](2018-10-22/SLIDES.pdf)
+* [Oct 29, 2018](2018-10-29)
+    * Lecture - Unity Game Engine
+    * Weekly Challenge Review - OSU Wireless
+    * Weekly Challenge - Human Cannonball Run
+    * [Slides](2018-10-29/SLIDES.pdf)
 
 Contribution
 ---
