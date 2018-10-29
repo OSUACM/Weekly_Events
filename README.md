@@ -141,6 +141,7 @@ Table of Contents
 * [Oct 29, 2018](2018-10-29)
     * Lecture - Unity Game Engine
     * Weekly Challenge Review - OSU Wireless
+        * [Slides](2018-10-29/OSU-Wireless.pdf)
     * Weekly Challenge - Human Cannonball Run
     * [Slides](2018-10-29/SLIDES.pdf)
 

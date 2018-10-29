@@ -7,6 +7,8 @@ Lecture - Unity Game Engine
 Weekly Challenge Review - OSU Wireless
 ---
 
+[Slides](OSU-Wireless.pdf)
+
 Weekly Challenge - Human Cannonball Run
 ---
 
