@@ -139,11 +139,16 @@ Table of Contents
         * [Test input](2018-10-22/OSU-Wireless.in)
     * [Slides](2018-10-22/SLIDES.pdf)
 * [Oct 29, 2018](2018-10-29)
-    * Lecture - Unity Game Engine
+    * Lecture - Search Algorithms and Minimax
+        * [Slides](2018-10-29/Search-Algorithms-and-Minimax.pdf)
     * Weekly Challenge Review - OSU Wireless
         * [Slides](2018-10-29/OSU-Wireless.pdf)
     * Weekly Challenge - Human Cannonball Run
     * [Slides](2018-10-29/SLIDES.pdf)
+* [Nov 05, 2018](2018-11-05)
+    * Lecture - GPU Computing and Parallel Algorithms
+    * Weekly Challenge Review - Human Cannonball Run
+    * Weekly Challenge - Two-dimensional Tunnel
 
 Contribution
 ---
