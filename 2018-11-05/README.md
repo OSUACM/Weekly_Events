@@ -7,6 +7,8 @@ Lecture - GPU Computing and Parallel Algorithms
 Weekly Challenge Review - Human Cannonball Run
 ---
 
+[Slides](Human-Cannonball-Run.pdf)
+
 Weekly Challenge - Two-dimensional Tunnel
 ---
 

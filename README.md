@@ -148,6 +148,7 @@ Table of Contents
 * [Nov 05, 2018](2018-11-05)
     * Lecture - GPU Computing and Parallel Algorithms
     * Weekly Challenge Review - Human Cannonball Run
+        * [Slides](2018-11-05/Human-Cannonball-Run.pdf)
     * Weekly Challenge - Two-dimensional Tunnel
     * [Slides](2018-11-05/SLIDES.pdf)
 
