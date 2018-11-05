@@ -1,7 +1,8 @@
 ACM Club Meeting - Oct 29, 2018
 ===
 
-Lecture - Unity Game Engine
+Lecture - General Intro to Search Algorithms and Minimax
+The topic mentioned in the slides is incorrect. Sorry for the confusion.
 ---
 
 Weekly Challenge Review - OSU Wireless
