@@ -154,6 +154,7 @@ Table of Contents
 * [Nov 19, 2018](2018-11-19)
     * Lecture - OpenGL and WebGL
     * Weekly Challenge Review - Two-dimensional Tunnel
+        * [Slides](2018-11-19/Two-Dimensional-Tunnel.pdf)
     * Weekly Challenge - Enigma
     * [Slides](2018-11-19/SLIDES.pdf)
 

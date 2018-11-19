@@ -7,6 +7,8 @@ Lecture - OpenGL and WebGL
 Weekly Challenge Review - Two-dimensional Tunnel
 ---
 
+[Slides](Two-Dimensional-Tunnel.pdf)
+
 Weekly Challenge - Enigma
 ---
 
