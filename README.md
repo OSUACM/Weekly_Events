@@ -151,6 +151,11 @@ Table of Contents
         * [Slides](2018-11-05/Human-Cannonball-Run.pdf)
     * Weekly Challenge - Two-dimensional Tunnel
     * [Slides](2018-11-05/SLIDES.pdf)
+* [Nov 19, 2018](2018-11-19)
+    * Lecture - OpenGL and WebGL
+    * Weekly Challenge Review - Two-dimensional Tunnel
+    * Weekly Challenge - Enigma
+    * [Slides](2018-11-19/SLIDES.pdf)
 
 Contribution
 ---
