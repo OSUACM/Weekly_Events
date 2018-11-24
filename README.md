@@ -152,7 +152,7 @@ Table of Contents
     * Weekly Challenge - Two-dimensional Tunnel
     * [Slides](2018-11-05/SLIDES.pdf)
 * [Nov 19, 2018](2018-11-19)
-    * Lecture - OpenGL and WebGL
+    * Lecture - ECNA Review
     * Weekly Challenge Review - Two-dimensional Tunnel
         * [Slides](2018-11-19/Two-Dimensional-Tunnel.pdf)
     * Weekly Challenge - Enigma

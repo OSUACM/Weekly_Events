@@ -1,7 +1,7 @@
 ACM Club Meeting - Nov 19, 2018
 ===
 
-Lecture - OpenGL and WebGL
+Lecture - ECNA Review
 ---
 
 Weekly Challenge Review - Two-dimensional Tunnel
