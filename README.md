@@ -157,6 +157,11 @@ Table of Contents
         * [Slides](2018-11-19/Two-Dimensional-Tunnel.pdf)
     * Weekly Challenge - Enigma
     * [Slides](2018-11-19/SLIDES.pdf)
+* [Nov 26, 2018](2018-11-26)
+    * Lecture - OpenGL and WebGL
+    * Weekly Challenge Review - Enigma
+    * Weekly Challenge - XOR Equation
+    * [Slides](2018-11-26/SLIDES.pdf)
 
 Contribution
 ---
