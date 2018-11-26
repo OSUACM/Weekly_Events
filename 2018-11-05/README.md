@@ -4,6 +4,8 @@ ACM Club Meeting - Nov 05, 2018
 Lecture - GPU Computing and Parallel Algorithms
 ---
 
+[Slides](GPU-Computing-and-Parallel-Algorithms.pptx)
+
 Weekly Challenge Review - Human Cannonball Run
 ---
 
