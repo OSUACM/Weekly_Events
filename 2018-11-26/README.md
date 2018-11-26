@@ -7,6 +7,10 @@ Lecture - OpenGL and WebGL
 Weekly Challenge Review - Enigma
 ---
 
+[Slides](Enigma.pdf)
+
+[Sample solution](Enigma.c)
+
 Weekly Challenge - XOR Equation
 ---
 

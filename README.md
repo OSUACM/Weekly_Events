@@ -160,6 +160,8 @@ Table of Contents
 * [Nov 26, 2018](2018-11-26)
     * Lecture - OpenGL and WebGL
     * Weekly Challenge Review - Enigma
+        * [Slides](2018-11-26/Enigma.pdf)
+        * [Sample solution](2018-11-26/Enigma.c)
     * Weekly Challenge - XOR Equation
     * [Slides](2018-11-26/SLIDES.pdf)
 
