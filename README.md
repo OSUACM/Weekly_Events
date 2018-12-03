@@ -165,6 +165,10 @@ Table of Contents
         * [Sample solution](2018-11-26/Enigma.c)
     * Weekly Challenge - XOR Equation
     * [Slides](2018-11-26/SLIDES.pdf)
+* [Dec 03, 2018](2018-12-03)
+    * Review - Autumn 2018
+    * Weekly Challenge Review - XOR Equation
+    * [Slides](2018-12-03/SLIDES.pdf)
 
 Contribution
 ---
