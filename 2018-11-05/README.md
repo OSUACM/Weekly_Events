@@ -11,6 +11,11 @@ Weekly Challenge Review - Human Cannonball Run
 
 [Slides](Human-Cannonball-Run.pdf)
 
+### Solutions from ACM-ICPC Training
+
+* [Laurence](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/humancannonball_laurence.cpp)
+* [hcz](https://github.com/buckeye-cn/ACM_ICPC_Materials/blob/master/solutions/kattis/naq14/humancannonball_hcz.cpp)
+
 Weekly Challenge - Two-dimensional Tunnel
 ---
 
