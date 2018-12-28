@@ -8,11 +8,14 @@ import pathlib
 
 INDENT_WIDTH = 4
 
+
 def print_item(content, indent):
-    sys.stdout.write('%s* %s\n' % (' ' * INDENT_WIDTH * indent, content))
+    f.write('%s* %s\n' % (' ' * INDENT_WIDTH * indent, content))
+
 
 def print_link(path, title, indent):
     print_item('[%s](%s)' % (title, '/'.join(path.parts)), indent)
+
 
 def process_file_item(path, used_files, name, title):
     with path / name as file_item:
@@ -22,6 +25,7 @@ def process_file_item(path, used_files, name, title):
         used_files.append(name)
 
         print_link(file_item, title, 2)
+
 
 def process_readme(path, used_files, time_str):
     with path / 'README.md' as readme:
@@ -35,10 +39,12 @@ def process_readme(path, used_files, time_str):
 
         # title
 
-        assert lines[1] == '===', 'title not found %s: %s' % (str(readme), lines[1])
+        assert lines[1] == '===', 'title not found %s: %s' % (
+        str(readme), lines[1])
 
         title_match = re.fullmatch(r'(.+) - ' + time_str, lines[0])
-        assert title_match is not None, 'title syntax error %s: %s' % (str(readme), lines[0])
+        assert title_match is not None, 'title syntax error %s: %s' % (
+        str(readme), lines[0])
 
         last = None
         section = None
@@ -47,20 +53,24 @@ def process_readme(path, used_files, time_str):
             if line == '---':
                 # new section
 
-                assert last is not None, 'section not found %s: %s' % (str(readme), line)
+                assert last is not None, 'section not found %s: %s' % (
+                str(readme), line)
 
                 section_match = re.fullmatch(r'(.+) - (.+)', last)
-                assert section_match is not None, 'section syntax error %s: %s' % (str(readme), last)
+                assert section_match is not None, 'section syntax error %s: %s' % (
+                str(readme), last)
 
                 print_item(last, 1)
                 section = section_match.group(2)
             elif re.fullmatch(r'\[.*\]\((?!\w+://).*\)', line):
                 # new link
 
-                assert section is not None, 'link in unknown section %s: %s' % (str(readme), line)
+                assert section is not None, 'link in unknown section %s: %s' % (
+                str(readme), line)
 
                 link_match = re.fullmatch(r'\[(.+)\]\((.+)\)', line)
-                assert link_match is not None, 'link syntax error %s: %s' % (str(readme), line)
+                assert link_match is not None, 'link syntax error %s: %s' % (
+                str(readme), line)
 
                 # assert link_match.group(2).startswith(section.replace(' ', '-')), 'link file name error %s: %s' % (str(readme), line)
 
@@ -73,6 +83,7 @@ def process_readme(path, used_files, time_str):
 
             last = line
 
+
 def process_slides(path, used_files):
     with path / 'SLIDES.pdf' as slides:
         if slides.exists():
@@ -81,6 +92,7 @@ def process_slides(path, used_files):
             used_files.append('SLIDES.pdf')
 
             print_link(slides, 'Slides', 1)
+
 
 def process_dir(path):
     if path.match('????-??-??'):
@@ -99,17 +111,15 @@ def process_dir(path):
             file_item.name for file_item in path.iterdir()
         ]), '%s contains unused file' % str(path)
 
+
 def process_all(root):
     for path in sorted(root.iterdir()):
         process_dir(path)
 
+
 if __name__ == '__main__':
-    sys.stdout.write(textwrap.dedent('''\
-        Weekly Events
-        ===
-
-        This repository contains slides / outline documents of ACM Club (ACM at Ohio State).
-
+    f = open("README.md", "w")
+    f.write(textwrap.dedent('''\
         Table of Contents
         ---
 
@@ -117,11 +127,4 @@ if __name__ == '__main__':
 
     process_all(pathlib.Path('.'))
 
-    sys.stdout.write(textwrap.dedent('''
-        Contribution
-        ---
-
-        If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
-
-        PDF and markdown are suggested formats.
-    '''))
+    sys.stdout.write("Finished")
