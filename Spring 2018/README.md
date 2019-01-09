@@ -1,6 +1,5 @@
 Table of Contents
 ---
-
 * [Nov 22, 2017](2017-11-22)
     * Lecture - Line Drawing
         * [Slides](2017-11-22/Line-Drawing.pdf)

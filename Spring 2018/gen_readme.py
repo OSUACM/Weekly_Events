@@ -40,11 +40,11 @@ def process_readme(path, used_files, time_str):
         # title
 
         assert lines[1] == '===', 'title not found %s: %s' % (
-        str(readme), lines[1])
+            str(readme), lines[1])
 
         title_match = re.fullmatch(r'(.+) - ' + time_str, lines[0])
         assert title_match is not None, 'title syntax error %s: %s' % (
-        str(readme), lines[0])
+            str(readme), lines[0])
 
         last = None
         section = None
@@ -54,11 +54,11 @@ def process_readme(path, used_files, time_str):
                 # new section
 
                 assert last is not None, 'section not found %s: %s' % (
-                str(readme), line)
+                    str(readme), line)
 
                 section_match = re.fullmatch(r'(.+) - (.+)', last)
                 assert section_match is not None, 'section syntax error %s: %s' % (
-                str(readme), last)
+                    str(readme), last)
 
                 print_item(last, 1)
                 section = section_match.group(2)
@@ -66,11 +66,11 @@ def process_readme(path, used_files, time_str):
                 # new link
 
                 assert section is not None, 'link in unknown section %s: %s' % (
-                str(readme), line)
+                    str(readme), line)
 
                 link_match = re.fullmatch(r'\[(.+)\]\((.+)\)', line)
                 assert link_match is not None, 'link syntax error %s: %s' % (
-                str(readme), line)
+                    str(readme), line)
 
                 # assert link_match.group(2).startswith(section.replace(' ', '-')), 'link file name error %s: %s' % (str(readme), line)
 
@@ -93,6 +93,16 @@ def process_slides(path, used_files):
 
             print_link(slides, 'Slides', 1)
 
+
+def write_header():
+    f.write(textwrap.dedent('''\
+        Table of Contents
+        ---
+'''))
+
+
+def write_footer():
+    pass
 
 def process_dir(path):
     if path.match('????-??-??'):
@@ -119,12 +129,6 @@ def process_all(root):
 
 if __name__ == '__main__':
     f = open("README.md", "w")
-    f.write(textwrap.dedent('''\
-        Table of Contents
-        ---
-
-    '''))
-
+    write_header()
     process_all(pathlib.Path('.'))
-
-    sys.stdout.write("Finished")
+    write_footer()

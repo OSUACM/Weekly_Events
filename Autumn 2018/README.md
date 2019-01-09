@@ -1,6 +1,5 @@
 Table of Contents
 ---
-
 * [Aug 27, 2018](2018-08-27)
     * Overview - Autumn 2018
     * Lecture - Weekly Challenge Workshop

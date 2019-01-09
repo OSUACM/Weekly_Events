@@ -96,13 +96,24 @@ def process_slides(path, used_files):
 
 def write_header():
     f.write(textwrap.dedent('''\
+        Weekly Events
+        ===
+        
+        This repository contains slides / outline documents of ACM Club (ACM at Ohio State).
+        
         Table of Contents
         ---
-'''))
+    '''))
 
 
 def write_footer():
-    pass
+    f.write(textwrap.dedent('''
+        Contribution
+        ---
+        If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
+        PDF and markdown are suggested formats.
+    '''))
+
 
 def process_dir(path):
     if path.match('????-??-??'):
