@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6ab1c2-1fe0-42e3-9c2d-cf8e49e69ee5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2019-01-15/Introduction.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-01-15/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen_readme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autumn 2018/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2018/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autumn 2018/gen_readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2018/gen_readme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring 2018/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring 2018/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring 2018/gen_readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spring 2018/gen_readme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,19 +17,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <first_editor relative-caret-position="289">
+                <caret line="16" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gen_readme.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gitignore.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gitignore.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen_readme.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gen_readme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+            <state relative-caret-position="94">
+              <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
               <folding>
                 <element signature="e#25#35#0" expanded="true" />
               </folding>
@@ -61,7 +63,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="170">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,6 +92,7 @@
         <option value="$PROJECT_DIR$/Spring 2018/gen_readme.py" />
         <option value="$PROJECT_DIR$/2019-01-15/README.md" />
         <option value="$PROJECT_DIR$/gen_readme.py" />
+        <option value="$PROJECT_DIR$/gitignore" />
       </list>
     </option>
   </component>
@@ -117,11 +120,6 @@
               <item name="Weekly_Events" type="b2602c69:ProjectViewProjectNode" />
               <item name="Weekly_Events" type="462c0819:PsiDirectoryNode" />
               <item name="2019-01-15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Weekly_Events" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Weekly_Events" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring 2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,16 +256,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12888302" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328877" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.328877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -506,17 +503,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="170">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
@@ -524,11 +511,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gen_readme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        <state relative-caret-position="94">
+          <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
           <folding>
             <element signature="e#25#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
