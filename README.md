@@ -9,6 +9,14 @@ Table of Contents
     * Lecture - "Introductions"
         * [Slides](2019-01-15/Introduction.pdf)
     * Weekly Challenge - "TBD"
+* [Jan 22, 2019](2019-01-22)
+    * Lecture - "Brute Force Algorithms"
+        * [Slides](2019-01-22/Brute_Force.pdf)
+        * [Generate Permutation](2019-01-22/GeneratePermutations.py)
+        * [Generate Subsets Iteratively](2019-01-22/GenerateSubsetIterative.java)
+        * [Generate Subsets Recursively](2019-01-22/GenerateSubsetRecursive.java)
+    * Weekly Challenge - "Petr And Combination Lock"
+    * Weekly Challenge - "New Year And The Treasure Geolocation"
 
 Contribution
 ---
