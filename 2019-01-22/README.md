@@ -17,7 +17,11 @@ Weekly Challenge - "Petr And Combination Lock"
 
 A description can be found here: https://codeforces.com/contest/1097/problem/B
 
+[Solution](PetrAndCombinationLock.java)
+
 Weekly Challenge - "New Year And The Treasure Geolocation"
 ---
 
 A description can be found here: https://codeforces.com/contest/1091/problem/B
+
+[Solution](NewYearAndTheTreasureGeolocation.java)
