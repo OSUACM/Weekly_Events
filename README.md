@@ -16,7 +16,14 @@ Table of Contents
         * [Generate Subsets Iteratively](2019-01-22/GenerateSubsetIterative.java)
         * [Generate Subsets Recursively](2019-01-22/GenerateSubsetRecursive.java)
     * Weekly Challenge - "Petr And Combination Lock"
+        * [Solution](2019-01-22/PetrAndCombinationLock.java)
     * Weekly Challenge - "New Year And The Treasure Geolocation"
+        * [Solution](2019-01-22/NewYearAndTheTreasureGeolocation.java)
+* [Jan 29, 2019](2019-01-29)
+    * Lecture - "Implementation"
+        * [Slides](2019-01-29/Implementation.pdf)
+    * Weekly Challenge - "Stones on the Table"
+    * Weekly Challenge - "Micro-World"
 
 Contribution
 ---
