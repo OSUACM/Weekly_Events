@@ -26,6 +26,13 @@ Table of Contents
         * [Solution](2019-01-29/StonesOnTheTable.cpp)
     * Weekly Challenge - "Micro-World"
         * [Solution](2019-01-29/MicroWorld.cpp)
+* [Feb 11, 2019](2019-02-11)
+    * Lecture - "Greedy"
+        * [Lecture Notes](2019-02-11/Greedy_Algorithms.pdf)
+        * [Missing Numbers Solution](2019-02-11/MissingNumbers.java)
+        * [Present Solution](2019-02-11/Present.java)
+    * Weekly Challenge - "Wilbur And Array"
+    * Weekly Challenge - "Sea Battle"
 
 Contribution
 ---

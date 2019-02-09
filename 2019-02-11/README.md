@@ -1,11 +1,13 @@
-ACM Club Meeting - Feb 2, 2019
+ACM Club Meeting - Feb 11, 2019
 ===
 
 Lecture - "Greedy"
 ---
 
-[Lecture Notes](Implementation.pdf)
+[Lecture Notes](Greedy_Algorithms.pdf)
+
 [Missing Numbers Solution](MissingNumbers.java)
+
 [Present Solution](Present.java)
 
 Weekly Challenge - "Wilbur And Array"
