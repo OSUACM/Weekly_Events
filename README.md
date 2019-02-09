@@ -23,7 +23,9 @@ Table of Contents
     * Lecture - "Implementation"
         * [Slides](2019-01-29/Implementation.pdf)
     * Weekly Challenge - "Stones on the Table"
+        * [Solution](2019-01-29/StonesOnTheTable.cpp)
     * Weekly Challenge - "Micro-World"
+        * [Solution](2019-01-29/MicroWorld.cpp)
 
 Contribution
 ---
