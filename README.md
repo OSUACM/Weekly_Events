@@ -32,11 +32,14 @@ Table of Contents
         * [Missing Numbers Solution](2019-02-11/MissingNumbers.java)
         * [Present Solution](2019-02-11/Present.java)
     * Weekly Challenge - "Wilbur And Array"
+        * [Solution](2019-02-11/WilburAndArray.java)
     * Weekly Challenge - "Sea Battle"
+        * [Solution](2019-02-11/SeaBattle.java)
 * [Feb 19, 2019](2019-02-19)
-   * Lecture - "Dynamic Programming"
-   * Weekly Challenge - "Canonical Coin Systems"
-   * https://open.kattis.com/problems/canonical
+    * Lecture - "Greedy"
+        * [Lecture Notes](2019-02-19/Dynamic Programming.pdf)
+    * Weekly Challenge - "Canonical Coin Systems"
+
 Contribution
 ---
 If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
