@@ -1,10 +1,11 @@
 ACM Club Meeting - Feb 19, 2019
 ===
 
-Lecture - "Greedy"
+Lecture - "Dynamic Programming"
 ---
 
 [Lecture Notes](Dynamic Programming.pdf)
+
 
 Weekly Challenge - "Canonical Coin Systems"
 ---

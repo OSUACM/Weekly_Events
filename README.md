@@ -36,9 +36,15 @@ Table of Contents
     * Weekly Challenge - "Sea Battle"
         * [Solution](2019-02-11/SeaBattle.java)
 * [Feb 19, 2019](2019-02-19)
-    * Lecture - "Greedy"
+    * Lecture - "Dynamic Programming"
         * [Lecture Notes](2019-02-19/Dynamic Programming.pdf)
     * Weekly Challenge - "Canonical Coin Systems"
+* [Feb 26, 2019](2019-02-26)
+    * Lecture - "2D Dynamic Programming"
+        * [Lecture Notes](2019-02-26/2DDynamic_Programming.pdf)
+        * [Concerts Solution](2019-02-26/Concerts.java)
+        * [Generalized Roman Numerals Solution](2019-02-26/GeneralizedRomanNumerals.java)
+    * Weekly Challenge - "Colorful Bricks"
 
 Contribution
 ---
