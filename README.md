@@ -45,6 +45,7 @@ Table of Contents
         * [Concerts Solution](2019-02-26/Concerts.java)
         * [Generalized Roman Numerals Solution](2019-02-26/GeneralizedRomanNumerals.java)
     * Weekly Challenge - "Colorful Bricks"
+        * [Solution](2019-02-26/ColorfulBricks.java)
 
 Contribution
 ---
