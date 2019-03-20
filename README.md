@@ -46,6 +46,23 @@ Table of Contents
         * [Generalized Roman Numerals Solution](2019-02-26/GeneralizedRomanNumerals.java)
     * Weekly Challenge - "Colorful Bricks"
         * [Solution](2019-02-26/ColorfulBricks.java)
+* [Mar 05, 2019](2019-03-05)
+    * Lecture - "Graph Theory"
+        * [Lecture Notes](2019-03-05/030519 badnotes.pdf)
+* [Mar 19, 2019](2019-03-19)
+    * Lecture - "Iterators and Generators with Python"
+        * [Iterators](2019-03-19/iterators.py)
+        * [Example Generator](2019-03-19/even_numbers_generator.py)
+        * [Combinatorics](2019-03-19/combinatorial_algorithms.py)
+        * [Beautiful Factorization](2019-03-19/beautiful.py)
+        * [Ugly Factorization](2019-03-19/ugly.py)
+        * [Folder Grep](2019-03-19/folder_grep.py)
+        * [Human Simulator](2019-03-19/other_direction.py)
+        * [Conway's Game](2019-03-19/game_of_life.py)
+    * Weekly Challenge - "Balanced Team"
+* [Mar 26, 2019](2019-03-26)
+    * Lecture - "TBD"
+    * Weekly Challenge - "TBD"
 
 Contribution
 ---
