@@ -37,7 +37,7 @@ Table of Contents
         * [Solution](2019-02-11/SeaBattle.java)
 * [Feb 19, 2019](2019-02-19)
     * Lecture - "Dynamic Programming"
-        * [Lecture Notes](2019-02-19/Dynamic Programming.pdf)
+        * [Lecture Notes](2019-02-19/Dynamic_Programming.pdf)
     * Weekly Challenge - "Canonical Coin Systems"
 * [Feb 26, 2019](2019-02-26)
     * Lecture - "2D Dynamic Programming"
@@ -48,7 +48,7 @@ Table of Contents
         * [Solution](2019-02-26/ColorfulBricks.java)
 * [Mar 05, 2019](2019-03-05)
     * Lecture - "Graph Theory"
-        * [Lecture Notes](2019-03-05/030519 badnotes.pdf)
+        * [Lecture Notes](2019-03-05/030519_badnotes.pdf)
 * [Mar 19, 2019](2019-03-19)
     * Lecture - "Iterators and Generators with Python"
         * [Iterators](2019-03-19/iterators.py)
@@ -61,10 +61,8 @@ Table of Contents
         * [Conway's Game](2019-03-19/game_of_life.py)
     * Weekly Challenge - "Balanced Team"
 * [Mar 26, 2019](2019-03-26)
-    * Lecture - "TBD"
-    * Weekly Challenge - "TBD"
-
-Contribution
----
-If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
-PDF and markdown are suggested formats.
+    * Lecture - "Constructive Algorithms"
+        * [Wrong Answer](2019-03-26/WrongAnswer.java)
+        * [Balanced Neighbors](2019-03-26/BalancedNeighbors.java)
+    * Weekly Challenge - "Unnatural Conditions"
+    * Weekly Challenge 2 (Hard) - "Rotation Sort"

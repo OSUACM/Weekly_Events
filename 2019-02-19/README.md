@@ -4,7 +4,7 @@ ACM Club Meeting - Feb 19, 2019
 Lecture - "Dynamic Programming"
 ---
 
-[Lecture Notes](Dynamic Programming.pdf)
+[Lecture Notes](Dynamic_Programming.pdf)
 
 
 Weekly Challenge - "Canonical Coin Systems"
