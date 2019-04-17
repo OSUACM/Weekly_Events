@@ -3,6 +3,8 @@ ACM Club Meeting - Mar 26, 2019
 
 Lecture - "Constructive Algorithms"
 ---
+[Notes](Constructive_Algorithms.pdf)
+
 [Nice Table](NiceTable.java)
 
 [Balanced Neighbors](BalancedNeighbors.java)

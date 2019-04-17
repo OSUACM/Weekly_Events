@@ -62,7 +62,26 @@ Table of Contents
     * Weekly Challenge - "Balanced Team"
 * [Mar 26, 2019](2019-03-26)
     * Lecture - "Constructive Algorithms"
-        * [Wrong Answer](2019-03-26/WrongAnswer.java)
+        * [Notes](2019-03-26/Constructive_Algorithms.pdf)
+        * [Nice Table](2019-03-26/NiceTable.java)
         * [Balanced Neighbors](2019-03-26/BalancedNeighbors.java)
     * Weekly Challenge - "Unnatural Conditions"
-    * Weekly Challenge 2 (Hard) - "Rotation Sort"
+    * Weekly Challenge 2 (Hard) - "Wrong answer"
+        * [Solution](2019-03-26/WrongAnswer.java)
+* [Apr 09, 2019](2019-04-09)
+    * Lecture - "Multithreading Programming"
+        * [Slides](2019-04-09/threading.pdf)
+* [Apr 16, 2019](2019-04-16)
+    * Solutions - "Spring 2019 Contest"
+        * [Characteristics Of Rectangles](2019-04-16/CharacteristicsOfRectangles.java)
+        * [Escape From Stones](2019-04-16/EscapeFromStones.java)
+        * [Find Square](2019-04-16/FindSquare.py)
+        * [Fun Game for Pepe](2019-04-16/FunGameForPepe.java)
+        * [Minimum Diameter Tree](2019-04-16/MinimumDiameterTree.java)
+        * [Single Use Stones](2019-04-16/SingleUseStones.java)
+    * Lecture - "Quantum Programming"
+
+Contribution
+---
+If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
+PDF and markdown are suggested formats.
