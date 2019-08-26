@@ -55,7 +55,8 @@ def process_readme(path, used_files, time_str):
 
                 assert last is not None, 'section not found %s: %s' % (
                     str(readme), line)
-
+                # Sections should have a dash in them, as in Lecture - Graph Theory.
+                # There should be a space to both sides of the dash.
                 section_match = re.fullmatch(r'(.+) - (.+)', last)
                 assert section_match is not None, 'section syntax error %s: %s' % (
                     str(readme), last)
@@ -108,10 +109,19 @@ def write_header():
 
 def write_footer():
     f.write(textwrap.dedent('''
+        Club Resources
+        ---
+        Mailing list: http://eepurl.com/di0GCD
+        Groupme:  https://groupme.com/join_group/49060136/1iVUqWAA
+        Website: https://osuacm.github.io/
+        
         Contribution
         ---
-        If you are interested in doing a presentation in our weekly events, please upload slides or an outline document by pushing a commit or opening a pull request.
-        PDF and markdown are suggested formats.
+        We want lectures from undergraduates like you! If you've seen a cool problem, just us know and we
+        will schedule a time for you to talk. No need to prepare a 40-minute lecture; even 5-minute
+        contributions are greatly appreciated! If you do use lecture slides or show code, though,
+        please add it to this repository (you can click 'upload file' in github, though you'll need
+        to ask for permission to edit the repo.)
     '''))
 
 
