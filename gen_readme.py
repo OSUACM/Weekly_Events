@@ -73,8 +73,6 @@ def process_readme(path, used_files, time_str):
                 assert link_match is not None, 'link syntax error %s: %s' % (
                     str(readme), line)
 
-                # assert link_match.group(2).startswith(section.replace(' ', '-')), 'link file name error %s: %s' % (str(readme), line)
-
                 process_file_item(
                     path,
                     used_files,
@@ -112,7 +110,9 @@ def write_footer():
         Club Resources
         ---
         Mailing list: http://eepurl.com/di0GCD
-        Groupme:  https://groupme.com/join_group/49060136/1iVUqWAA
+        
+        GroupMe:  https://groupme.com/join_group/49060136/1iVUqWAA
+        
         Website: https://osuacm.github.io/
         
         Contribution

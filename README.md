@@ -15,7 +15,9 @@ Table of Contents
 Club Resources
 ---
 Mailing list: http://eepurl.com/di0GCD
-Groupme:  https://groupme.com/join_group/49060136/1iVUqWAA
+
+GroupMe:  https://groupme.com/join_group/49060136/1iVUqWAA
+
 Website: https://osuacm.github.io/
 
 Contribution
