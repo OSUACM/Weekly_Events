@@ -11,6 +11,11 @@ Table of Contents
     * Lecture - Prime Sieve
         * [Solutions](2019-08-28/PrimeFactor.java)
     * Challenge Question - Online Exam
+* [Sep 06, 2019](2019-09-06)
+    * Lecture - How to get an internship at facebook
+    * Weekly Challenge - LeapsAndBounds
+        * [Statement](2019-09-06/Leaps&Bounds.pptx)
+        * [Input](2019-09-06/LeapsAndBoundsInput)
 
 Club Resources
 ---
