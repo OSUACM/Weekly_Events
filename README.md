@@ -13,6 +13,7 @@ Table of Contents
     * Challenge Question - Online Exam
 * [Sep 06, 2019](2019-09-06)
     * Lecture - How to get an internship at facebook
+        * [Lecture](2019-09-06/InternshipAtFacebook.pdf)
     * Weekly Challenge - LeapsAndBounds
         * [Statement](2019-09-06/Leaps&Bounds.pptx)
         * [Input](2019-09-06/LeapsAndBoundsInput)
