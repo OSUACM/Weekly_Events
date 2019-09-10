@@ -17,6 +17,14 @@ Table of Contents
     * Weekly Challenge - LeapsAndBounds
         * [Statement](2019-09-06/Leaps&Bounds.pptx)
         * [Input](2019-09-06/LeapsAndBoundsInput)
+* [Sep 10, 2019](2019-09-10)
+    * Weekly Challenge Solution - Leaps and Bounds
+        * [Method](2019-09-10/LeapsAndBoundsSolution.pptx)
+        * [Correct Output](2019-09-10/LeapsAndBoundsOutput)
+        * [Code](2019-09-10/LeapsAndBoundsSolver.java)
+    * Lecture - Picking Stones
+        * [Slides](2019-09-10/PickingStones.pptx)
+    * Weekly Challenge - Three Displays
 
 Club Resources
 ---

@@ -66,7 +66,7 @@ def process_readme(path, used_files, time_str):
             elif re.fullmatch(r'\[.*\]\((?!\w+://).*\)', line):
                 # new link
 
-                assert section is not None, 'link in unknown section %s: %s' % (
+                assert section is not None, 'link in unknown section. Make sure to use === to separate sections %s: %s' % (
                     str(readme), line)
 
                 link_match = re.fullmatch(r'\[(.+)\]\((.+)\)', line)
