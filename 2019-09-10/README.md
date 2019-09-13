@@ -15,5 +15,4 @@ Lecture - Picking Stones
 
 Weekly Challenge - Three Displays
 ---
-
 [Problem](https://codeforces.com/problemset/problem/987/C)
