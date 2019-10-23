@@ -131,6 +131,7 @@ def process_dir(path):
 
         time = datetime.datetime.strptime(path.name, '%Y-%m-%d')
         time_str = time.strftime('%b %d, %Y')
+
         print_link(path, time_str, 0)
 
         used_files = []
@@ -142,8 +143,24 @@ def process_dir(path):
             file_item.name for file_item in path.iterdir()
         ]), '%s contains unused file' % str(path)
 
+    if path.match('???_??_????'):
+        month = path.name[:3]
+        rest = path.name[4:]
 
-def process_all(root):
+        time = datetime.datetime.strptime(rest, '%d_%Y')
+        time_str = month + " " + time.strftime('%d, %Y')
+        print_link(path, time_str, 0)
+
+        used_files = []
+
+        process_readme(path, used_files, time_str)
+        process_slides(path, used_files)
+
+        assert sorted(used_files) == sorted([
+            file_item.name for file_item in path.iterdir()
+        ]), '%s contains unused file' % str(path)
+
+def process_all(roo
     for path in sorted(root.iterdir()):
         process_dir(path)
 

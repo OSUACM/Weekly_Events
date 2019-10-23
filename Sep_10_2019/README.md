@@ -11,6 +11,8 @@ Weekly Challenge Solution - Leaps and Bounds
 
 Lecture - Picking Stones
 ---
+[Code](PickingStones.java)
+
 [Slides](PickingStones.pptx)
 
 Weekly Challenge - Three Displays

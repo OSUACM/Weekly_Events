@@ -5,25 +5,26 @@ This repository contains slides / outline documents of ACM Club (ACM at Ohio Sta
 
 Table of Contents
 ---
-* [Aug 28, 2019](2019-08-28)
+* [Aug 28, 2019](Aug_28_2019)
     * Lecture - Introduction
-        * [Slides](2019-08-28/Intro.pptx)
+        * [Slides](Aug_28_2019/Intro.pptx)
     * Lecture - Prime Sieve
-        * [Solutions](2019-08-28/PrimeFactor.java)
+        * [Solutions](Aug_28_2019/PrimeFactor.java)
     * Challenge Question - Online Exam
-* [Sep 06, 2019](2019-09-06)
+* [Sep 06, 2019](Sep_06_2019)
     * Lecture - How to get an internship at facebook
-        * [Lecture](2019-09-06/InternshipAtFacebook.pdf)
+        * [Lecture](Sep_06_2019/InternshipAtFacebook.pdf)
     * Weekly Challenge - LeapsAndBounds
-        * [Statement](2019-09-06/Leaps&Bounds.pptx)
-        * [Input](2019-09-06/LeapsAndBoundsInput)
-* [Sep 10, 2019](2019-09-10)
+        * [Statement](Sep_06_2019/Leaps&Bounds.pptx)
+        * [Input](Sep_06_2019/LeapsAndBoundsInput)
+* [Sep 10, 2019](Sep_10_2019)
     * Weekly Challenge Solution - Leaps and Bounds
-        * [Method](2019-09-10/LeapsAndBoundsSolution.pptx)
-        * [Correct Output](2019-09-10/LeapsAndBoundsOutput)
-        * [Code](2019-09-10/LeapsAndBoundsSolver.java)
+        * [Method](Sep_10_2019/LeapsAndBoundsSolution.pptx)
+        * [Correct Output](Sep_10_2019/LeapsAndBoundsOutput)
+        * [Code](Sep_10_2019/LeapsAndBoundsSolver.java)
     * Lecture - Picking Stones
-        * [Slides](2019-09-10/PickingStones.pptx)
+        * [Code](Sep_10_2019/PickingStones.java)
+        * [Slides](Sep_10_2019/PickingStones.pptx)
     * Weekly Challenge - Three Displays
 
 Club Resources
