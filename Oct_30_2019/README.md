@@ -14,3 +14,9 @@ Problem - Musical Chairs
 Problem - Taxed Editor
 ---
 [Solution](TaxedEditor.java)
+
+Bonus Problem - Just Passing Through
+---
+[Statement](https://ecna19.kattis.com/problems/justpassingthrough)
+
+[Solution](JustPassingThrough.java)
