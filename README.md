@@ -11,6 +11,18 @@ Table of Contents
     * Lecture - Prime Sieve
         * [Solutions](Aug_28_2019/PrimeFactor.java)
     * Challenge Question - Online Exam
+* [Oct 23, 2019](Oct_23_2019)
+    * Data Structure - Max Queue
+        * [Code](Oct_23_2019/MaxQueue.java)
+    * Problem - Sound Of Silence
+        * [Solution](Oct_23_2019/SoundOfSilence.java)
+* [Oct 30, 2019](Oct_30_2019)
+    * Problem - Cardboard Container
+        * [Solution](Oct_30_2019/CardboardContainer.java)
+    * Problem - Musical Chairs
+        * [Solution](Oct_30_2019/MusicalChairs.java)
+    * Problem - Taxed Editor
+        * [Solution](Oct_30_2019/TaxedEditor.java)
 * [Sep 06, 2019](Sep_06_2019)
     * Lecture - How to get an internship at facebook
         * [Lecture](Sep_06_2019/InternshipAtFacebook.pdf)

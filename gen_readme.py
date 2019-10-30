@@ -160,7 +160,7 @@ def process_dir(path):
             file_item.name for file_item in path.iterdir()
         ]), '%s contains unused file' % str(path)
 
-def process_all(roo
+def process_all(root):
     for path in sorted(root.iterdir()):
         process_dir(path)
 
