@@ -12,5 +12,5 @@ Problem - Make Them Similar
 Problem - 0-1 MST
 ---
 [Link](http://codeforces.com/problemset/problem/1242/A)
-
+[ProblemSet](ProblemsPDF.pdf)
 

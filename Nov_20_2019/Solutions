@@ -1,0 +1,15 @@
+Tile Painting:
+Take the GCD of all of the factors of n besides 1. Any elements separated by distance equal to this GCD must be the same, otherwise
+there is no restriction. The answer is then n/(the GCD).
+
+0 - 1 MST:
+Find the node with the most edges.
+Merge that node with all nodes it is connected with. The graph is now
+small enough that a normal MST algorithm will pass.
+
+Make them similar:
+Store possible bitcounts of the first 15 bits of elements
+when xor ed with a number that ends with any combination of 15 bits. (Using hashmap)
+For the last 15 bits, try xoring with each of the 2^15 possible numbers. Suppose that we do this,
+then there are at most 15 possibilities of the result of the first 15 bits. Check in the
+hashmap if any such values exist. If so, then you have found a solution.
