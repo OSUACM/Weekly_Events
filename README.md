@@ -11,6 +11,10 @@ Table of Contents
     * Lecture - Prime Sieve
         * [Solutions](Aug_28_2019/PrimeFactor.java)
     * Challenge Question - Online Exam
+* [Nov 20, 2019](Nov_20_2019)
+    * Problem - Tile Painting
+    * Problem - Make Them Similar
+    * Problem - 0-1 MST
 * [Oct 23, 2019](Oct_23_2019)
     * Data Structure - Max Queue
         * [Code](Oct_23_2019/MaxQueue.java)
@@ -23,6 +27,8 @@ Table of Contents
         * [Solution](Oct_30_2019/MusicalChairs.java)
     * Problem - Taxed Editor
         * [Solution](Oct_30_2019/TaxedEditor.java)
+    * Bonus Problem - Just Passing Through
+        * [Solution](Oct_30_2019/JustPassingThrough.java)
 * [Sep 06, 2019](Sep_06_2019)
     * Lecture - How to get an internship at facebook
         * [Lecture](Sep_06_2019/InternshipAtFacebook.pdf)
