@@ -9,3 +9,5 @@ Table of Contents
 [SubsetWith0Sum](https://codeforces.com/contest/1270/problem/G)
 
 [Weekly Challenge](ttps://codeforces.com/problemset/problem/1272/E)
+
+[Election Link](https://forms.gle/42WN8XeoaXbodE5G7)
