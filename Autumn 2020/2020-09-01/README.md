@@ -1,6 +1,6 @@
 Table of Contents
 ---
-[Meeting slides](Intro2020.pdf)
+[Meeting slides](Intro2020.pptx)
 
 [Weekly Challenge](https://www.codingame.com/ide/puzzle/network-cabling)
 
