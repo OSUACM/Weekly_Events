@@ -7,7 +7,7 @@ Club Resources
 ---
 [GroupMe](https://tinyurl.com/yydkcghy)
 
-[Discord](https://discord.gg/DwnZ6DN)
+[Discord](https://discord.gg/WmPGNRV)
 
 [Website](https://cpcosu.github.io)
 
