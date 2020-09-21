@@ -14,7 +14,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-    // pInverted[i][j] = The probability that a_i < a_j.
+    // pLess[i][j] = The probability that a_i < a_j.
     vector<vector<int>> pLess(n, vector<int>(n, 0));
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
