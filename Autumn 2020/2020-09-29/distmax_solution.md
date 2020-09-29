@@ -4,6 +4,19 @@ To do so:
 iterate over all pairs of points, and find the two most distant. Done. They should
 code a working solution to this first.
 
+```c++
+int[] xCoords = int[n];
+int[] yCoords = int[n];
+// Assume the two above arrays are initalized with the input values
+int maxD = 0;
+for(int i = 0; i < n; i++){
+    for(int j = i + 1; j < n; j++){
+        maxD = max(maxD, abs(xCoords[i]-xCoords[j]) + abs(yCoords[i]-yCoords[j]));
+    }
+}
+return maxD;
+```
+
 -----------------------------------
 
 If the applicant finishes quickly, you can ask them to try to solve it with a

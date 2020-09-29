@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55615707-6321-4bfb-a1ed-53b300403904" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes_solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes_solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax_solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax_solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>now</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="bbf13d1e-f445-4588-ac08-3710c1f286c7" />
+  <component name="ProjectId" id="1TtgZIK8P9GF8myunZFny8YG2uE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../watsong" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-29" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-22" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-01" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Oct_30_2019" />
+      <recent name="" />
+      <recent name="test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Spring_2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Administrative" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Feb_26_2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Feb_12_2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Jan_22_2020" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.gen_readme">
+    <configuration name="LeapsAndBoundsGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapsAndBoundsGenerator" />
+      <module name="Weekly_Events" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeFactor" />
+      <module name="Weekly_Events" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundOfSilence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Autumn_2019.Oct_23_2019.SoundOfSilence" />
+      <module name="Weekly_Events" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gen_readme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weekly_Events" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alex Li\PycharmProjects\chrunprediction\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gen_readme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55615707-6321-4bfb-a1ed-53b300403904" name="Default Changelist" comment="" />
+      <created>1566767942066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566767942066</updated>
+      <workItem from="1574284870180" duration="2734000" />
+      <workItem from="1578276717709" duration="1134000" />
+      <workItem from="1579122232501" duration="2480000" />
+      <workItem from="1579127253678" duration="69000" />
+      <workItem from="1580320393636" duration="164000" />
+      <workItem from="1580320578254" duration="33000" />
+      <workItem from="1580336150621" duration="39000" />
+      <workItem from="1580931175429" duration="5000" />
+      <workItem from="1580932827878" duration="6000" />
+      <workItem from="1581014118103" duration="42000" />
+      <workItem from="1581706574650" duration="6000" />
+      <workItem from="1581890791984" duration="303000" />
+      <workItem from="1582836646276" duration="232000" />
+      <workItem from="1584044049394" duration="770000" />
+      <workItem from="1584063986433" duration="866000" />
+      <workItem from="1585420379053" duration="4000" />
+      <workItem from="1588614020606" duration="96000" />
+      <workItem from="1590537500088" duration="29000" />
+      <workItem from="1598629747080" duration="843000" />
+      <workItem from="1598985379786" duration="828000" />
+      <workItem from="1599005373186" duration="256000" />
+      <workItem from="1599771961151" duration="21000" />
+      <workItem from="1600655724000" duration="1148000" />
+      <workItem from="1600808924234" duration="247000" />
+      <workItem from="1601078176876" duration="5352000" />
+      <workItem from="1601234871475" duration="14000" />
+      <workItem from="1601397691187" duration="8000" />
+      <workItem from="1601408770653" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="PythonConfigurationType" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598985538727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="883" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598985538727" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601397756783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601397756783" />
+    <state width="456" height="500" key="javadoc.popup.new" timestamp="1601081968068">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="456" height="500" key="javadoc.popup.new/0.0.1536.864@0.0.1536.864" timestamp="1601081968068" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1601083673751">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1601083673751" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Weekly_Events</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

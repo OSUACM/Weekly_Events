@@ -18,3 +18,10 @@ bcccbbaab. It could also be a cyclic rotation of the string such as abbcccbba
 other inputs to consider:
 aaaaaaa (has an axis of symmetry, actually several)
 abcabca (has no axis of symmetry)
+
+Implement the method below (change the template for your language)
+```c++
+bool hasAxis(string str){
+
+}
+```

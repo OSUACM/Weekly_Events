@@ -22,10 +22,9 @@ for(int center = 0; center < str.size(); center++){
 // no string works
 return false;
 ```
-
 -----------------------------------
 
-If the interviee succeeds within the time interview, you can challenge them to come up with a faster
+If the interviewee succeeds within the time interview, you can challenge them to come up with a faster
 solution. This is harder, though. Some our our smartest minds have been working on this problem, here
 are a few interesting ideas:
 
