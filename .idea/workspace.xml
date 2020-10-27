@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55615707-6321-4bfb-a1ed-53b300403904" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes_solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/cyclicpalindromes_solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax_solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autumn 2020/2020-09-29/distmax_solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +159,12 @@
       <workItem from="1601078176876" duration="5352000" />
       <workItem from="1601234871475" duration="14000" />
       <workItem from="1601397691187" duration="8000" />
-      <workItem from="1601408770653" duration="585000" />
+      <workItem from="1601408770653" duration="842000" />
+      <workItem from="1601738549991" duration="22000" />
+      <workItem from="1602516985132" duration="2000" />
+      <workItem from="1603342079099" duration="7000" />
+      <workItem from="1603413136465" duration="8000" />
+      <workItem from="1603733743479" duration="577000" />
     </task>
     <servers />
   </component>
@@ -191,10 +191,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="883" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598985538727" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601397756783">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601738570309">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601397756783" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601738570309" />
     <state width="456" height="500" key="javadoc.popup.new" timestamp="1601081968068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
