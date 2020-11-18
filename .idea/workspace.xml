@@ -42,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../watsong" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Autumn 2020" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,24 +56,24 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-29" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-22" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-01" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-10-27" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Spring_2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Administrative" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Feb_26_2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Feb_12_2020" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Oct_30_2019" />
       <recent name="" />
       <recent name="test" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Spring_2020" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Administrative" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Feb_26_2020" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Feb_12_2020" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Jan_22_2020" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-29" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-22" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-01" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events" />
     </key>
   </component>
   <component name="RunManager" selected="Python.gen_readme">
@@ -165,6 +165,9 @@
       <workItem from="1603342079099" duration="7000" />
       <workItem from="1603413136465" duration="8000" />
       <workItem from="1603733743479" duration="577000" />
+      <workItem from="1603824631384" duration="185000" />
+      <workItem from="1603837144113" duration="984000" />
+      <workItem from="1604000071343" duration="5000" />
     </task>
     <servers />
   </component>
