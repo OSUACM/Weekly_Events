@@ -1,9 +1,5 @@
 Table of Contents
 ---
-[Meeting slides](Intro2020.pptx)
-
-[Weekly Challenge](https://www.codingame.com/ide/puzzle/network-cabling)
-
-[Team Application Form - REQUIRED](https://tinyurl.com/yy8r3vaw)
+Meeting Slides [(pptx)](Meeting%201%20Spring%202021.pptx) [(pdf)](Meeting%201%20Spring%202021.pdf)
 
 

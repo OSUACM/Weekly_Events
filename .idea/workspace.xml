@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55615707-6321-4bfb-a1ed-53b300403904" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_2021/2020-01-11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_2021/2020-01-11/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Autumn 2020" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring_2021/2020-01-11" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,14 +70,14 @@
       <recent name="test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-29" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-22" />
-      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-09-01" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Spring_2021\2020-01-11" />
       <recent name="C:\Users\Alex Li\git\Weekly_Events" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Spring_2020" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn_2021" />
+      <recent name="C:\Users\Alex Li\git\Weekly_Events\Autumn 2020\2020-11-17" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gen_readme">
+  <component name="RunManager">
     <configuration name="LeapsAndBoundsGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeapsAndBoundsGenerator" />
       <module name="Weekly_Events" />
@@ -168,6 +169,10 @@
       <workItem from="1603824631384" duration="185000" />
       <workItem from="1603837144113" duration="984000" />
       <workItem from="1604000071343" duration="5000" />
+      <workItem from="1605661007597" duration="157000" />
+      <workItem from="1605825375793" duration="43000" />
+      <workItem from="1610149207097" duration="351000" />
+      <workItem from="1610149632177" duration="9000" />
     </task>
     <servers />
   </component>
@@ -194,10 +199,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="883" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598985538727" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601738570309">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1605825417227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601738570309" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605825417227" />
     <state width="456" height="500" key="javadoc.popup.new" timestamp="1601081968068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
